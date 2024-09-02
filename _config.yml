@@ -1,7 +1,7 @@
 # Site settings
-title: Rapport Tecnológia
-email: admin@rapport.tec.br
-description: Rappot Tecnológia é uma empreendimento fortemente atrelado a intelgiência Artificial. Visamos oferecer serviços classicos empoderadores tanto por Recursos Humanos como Inteligência Artificial. Temos mais de 35 anos de experiência em integração de sistemas, redes e desenvolvimento de softwares. Da Hospedagem do seu site, até a integração de seus sistemas com meios de comunicação via internet, buscamos a melhor solução.
+title: "Rapport Tecnológia"
+email: "admin@rapport.tec.br"
+description: "Rappot Tecnológia é uma empreendimento fortemente atrelado a intelgiência Artificial. Visamos oferecer serviços classicos empoderadores tanto por Recursos Humanos como Inteligência Artificial. Temos mais de 35 anos de experiência em integração de sistemas, redes e desenvolvimento de softwares. Da Hospedagem do seu site, até a integração de seus sistemas com meios de comunicação via internet, buscamos a melhor solução."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
