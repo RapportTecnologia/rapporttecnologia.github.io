@@ -4,7 +4,8 @@ language: pt-br
 title: Contrato de Prestação de Serviços de Inteligência Artificial
 description: Contrato de Prestação de Serviços de Inteligência Artificial
 tags: [contrato, ingeligência artificial, chatGPT, LLM, FSM, NLP, FSM-NLP, RAPPORT, RAPPORT OS, RAPPORT, BOT, RAPPORT BOT, RAPPORT API, API]
-redirect_from: /contrato-pt-br
+redirect_from: /contrato
+permalink: /contrato-pt-br
 ---
 
 **CONTRATO DE PRESTAÇÃO DE SERVIÇOS TECNOLÓGICOS**
