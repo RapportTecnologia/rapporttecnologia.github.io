@@ -57,4 +57,59 @@ $theme-dark: #222;
         border-top: 1px solid #ccc;
         margin: 20px 0;
       }
+
+.footer-custom {
+        background-color: #000; /* Fundo preto */
+        color: #fff; /* Texto branco */
+        padding: 40px 0;
+        border-top: 1px solid #34495e;
+      }
+      
+      .footer-custom h4 {
+        color: #f39c12; /* Títulos com cor contrastante */
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+      
+      .footer-custom ul {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+      }
+      
+      .footer-custom ul li {
+        margin-bottom: 10px;
+      }
+      
+      .footer-custom ul li a {
+        color: #fff; /* Links brancos */
+        text-decoration: none;
+        font-size: 16px;
+      }
+      
+      .footer-custom ul li a:hover {
+        color: #f39c12; /* Cor de hover para os links */
+        text-decoration: underline;
+      }
+      
+      .footer-custom .copyright {
+        margin-top: 30px;
+        font-size: 14px;
+        color: #95a5a6;
+      }
+      
+      .footer-custom .copyright a {
+        color: #f39c12; /* Cor do link para Carlos Delfino */
+        text-decoration: none;
+      }
+      
+      .footer-custom .copyright a:hover {
+        text-decoration: underline;
+      }
+      
+      @media (max-width: 767px) {
+        .footer-custom .col-sm-6 {
+          margin-bottom: 30px;
+        }
+      }
       

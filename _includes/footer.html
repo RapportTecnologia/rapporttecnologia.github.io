@@ -1,8 +1,8 @@
-<footer class="footer">
+<footer class="footer footer-custom">
     <div class="container">
       <div class="row">
-        <!-- Coluna 1 -->
-        <div class="col-md-4 col-sm-6">
+        <!-- Coluna 1: Seções do Site -->
+        <div class="col-md-3 col-sm-6">
           <h4>Seções do Site</h4>
           <ul class="list-unstyled">
             <li><a href="{{ '/' | relative_url }}">Início</a></li>
@@ -13,8 +13,8 @@
           </ul>
         </div>
   
-        <!-- Coluna 2 -->
-        <div class="col-md-4 col-sm-6">
+        <!-- Coluna 2: Recursos -->
+        <div class="col-md-3 col-sm-6">
           <h4>Recursos</h4>
           <ul class="list-unstyled">
             <li><a href="#">Blog</a></li>
@@ -24,8 +24,8 @@
           </ul>
         </div>
   
-        <!-- Coluna 3 -->
-        <div class="col-md-4 col-sm-12">
+        <!-- Coluna 3: Redes Sociais -->
+        <div class="col-md-3 col-sm-6">
           <h4>Redes Sociais</h4>
           <ul class="list-unstyled">
             <li><a href="#">Facebook</a></li>
@@ -34,7 +34,28 @@
             <li><a href="#">GitHub</a></li>
           </ul>
         </div>
+  
+        <!-- Coluna 4: Contratos -->
+        <div class="col-md-3 col-sm-6">
+          <h4>Contratos</h4>
+          <ul class="list-unstyled">
+            <li><a href="{{ '/contrato-pt-br' | relative_url }}">Português (BR)</a></li>
+            <li><a href="{{ '/contrato-en' | relative_url }}">Inglês (EN)</a></li>
+            <li><a href="{{ '/contrato-es' | relative_url }}">Espanhol (ES)</a></li>
+            <li><a href="{{ '/contrato-fr' | relative_url }}">Francês (FR)</a></li>
+          </ul>
+        </div>
       </div>
   
-      <div class="row"
+      <!-- Direitos Autorais -->
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <p class="copyright">
+            © {{ "now" | date: "%Y" }} Rapport é um projeto da Árvore dos Saberes, executado por 
+            <a href="http://carlosdelfino.eti.br" target="_blank">Carlos Delfino</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
   
