@@ -1,17 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% include head.html %}
+<head>
+  {% include head.html %}
+</head>
 
 <body id="page-top">
+  
+  <!-- Navegação -->
   {% include nav.html %}
+  
+  <!-- Header -->
   {% include header.html %}
+
+  <!-- Call to Action -->
   {% include call-to-action.html %}
+  
+  <!-- Serviços -->
   {% include services.html %}
+  
+  <!-- Portfólio -->
   {% include portfolio.html %}
+  
+  <!-- Seção Aside -->
   {% include aside.html %}
+  
+  <!-- Contato -->
   {% include contact.html %}
+
+  <!-- Rodapé -->
+  {% include footer.html %}
+  
+  <!-- Scripts globais (geral) -->
   {% include scripts.html %}
+  
+  <!-- Scripts específicos (Tawk.to e WhatsApp) -->
+  {% include tawkto.html %}
+  {% include whatsappme.html %}
+
 </body>
 
 </html>
