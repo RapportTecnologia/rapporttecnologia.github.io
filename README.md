@@ -1,3 +1,14 @@
+## INSTRUÇÕES SOBRE O LAYOUT
+
+O layout foi ajustado com ChatGPT, usando o chat:
+
+*
+
+E para registro para nosso trabalho o link para continuidade por nós:
+
+* https://chatgpt.com/g/g-3p5sZX4GR-basicao-da-engenharia/c/cdabd045-1f8e-4f56-a719-2ebecbce82de
+
+
 # Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
