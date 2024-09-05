@@ -13,3 +13,8 @@ github_username: rapporttecnologia
 
 # Build settings
 markdown: kramdown
+
+collections:  
+  pages:
+    output: true
+    permalink: /:path/
