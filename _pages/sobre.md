@@ -7,11 +7,6 @@ tags: [ingeligência artificial, chatGPT, LLM, FSM, NLP, FSM-NLP, RAPPORT, RAPPO
 redirect_from: /sobre
 permalink: /sobre
 ---
----
-layout: page
-title: "Sobre"
-description: "Conheça o histórico profissional de Carlos Delfino e Roberto Placido, nossos principais profissionais, e a parceria tecnológica com a CieDa.com.br."
----
 
 ## Sobre Nós
 
