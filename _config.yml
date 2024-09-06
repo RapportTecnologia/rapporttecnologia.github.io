@@ -31,3 +31,4 @@ permalink: /blog/:categories/:title/
   
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
