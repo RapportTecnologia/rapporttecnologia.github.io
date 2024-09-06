@@ -8,6 +8,10 @@ E para registro para nosso trabalho o link para continuidade por nós:
 
 * https://chatgpt.com/g/g-3p5sZX4GR-basicao-da-engenharia/c/cdabd045-1f8e-4f56-a719-2ebecbce82de
 
+Nosso contrato foi feito pelo ChatGPT
+
+* https://chatgpt.com/g/g-eDLIeqit1-legis-brasil/c/b0fd92dd-800e-4a21-a425-204a81580911
+
 
 # Creative Theme for Jekyll
 
