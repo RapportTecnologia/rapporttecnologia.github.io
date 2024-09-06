@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {% include head.html %}
+</head>
+
+<body id="page-top">
+  <!-- Navegação -->
+  {% include nav.html %}
+
+  <!-- Conteúdo Principal do Projeto -->
+  <div class="container t30">
+    <div class="row">
+      <div class="col-lg-12">
+        <header class="page-header text-center">
+          <h1>{{ page.title }}</h1>
+          <p class="text-muted">{{ page.description }}</p>
+          <hr>
+        </header>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <!-- Imagem do Projeto -->
+        <div class="project-image text-center">
+          <img src="{{ site.baseurl }}/img/portfolio/{{ page.image }}" class="img-responsive" alt="{{ page.title }}">
+        </div>
+
+        <!-- Conteúdo Detalhado do Projeto -->
+        <div class="project-content">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Rodapé -->
+  {% include footer.html %}
+
+  <!-- Scripts -->
+  {% include scripts.html %}
+</body>
+
+</html>

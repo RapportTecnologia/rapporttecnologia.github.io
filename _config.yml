@@ -18,6 +18,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  portfolio:
+    output: true
+    permalink: /projetos/:path/
 
 plugins:
   - jekyll-sitemap
