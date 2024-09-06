@@ -1,0 +1,23 @@
+---
+layout: page
+---
+
+<section id="recent-posts" class="container">
+  <h2 class="text-center">Últimos Artigos</h2>
+  <div class="row">
+    {% for post in site.posts limit:10 %}
+    <div class="col-md-4">
+      <div class="card">
+        {% if post.image %}
+        <img class="card-img-top" src="{{ post.image }}" alt="Imagem do post {{ post.title }}">
+        {% endif %}
+        <div class="card-body">
+          <h5 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
+          <p class="card-text">{{ post.excerpt | strip_html | truncate: 150 }}</p>
+          <p class="card-text"><small class="text-muted">Por {{ post.author }}</small></p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

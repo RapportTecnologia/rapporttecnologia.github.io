@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+<section id="archive" class="container">
+  <h2 class="text-center">Arquivo de Artigos</h2>
+  <ul class="list-unstyled">
+    {% for post in site.posts %}
+    <li>
+      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
+      <p><small>Autor: {{ post.author }}</small></p>
+    </li>
+    <hr>
+    {% endfor %}
+  </ul>
+</section>
