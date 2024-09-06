@@ -16,6 +16,9 @@ github_username: rapporttecnologia
 markdown: kramdown
 
 collections:  
+  # Ativar posts
+  posts:
+    output: true
   pages:
     output: true
     permalink: /:path/
@@ -23,5 +26,8 @@ collections:
     output: true
     permalink: /projetos/:path/
 
+# Definir a estrutura de URL dos posts
+permalink: /blog/:categories/:title/
+  
 plugins:
   - jekyll-sitemap
