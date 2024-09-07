@@ -12,4 +12,33 @@ header:
   - link: '/contrato-pt-br'
     title: Contrato (PT-BR)
     lang: pt-br
-    
+columns:
+  - title: "Seções do Site"
+    links:
+      - title: "Início"
+        url: "/"
+      - title: "Sobre"
+        url: "/sobre"
+      - title: "Portfólio"
+        url: "#portfolio"
+      - title: "Contato"
+        url: "#contato"
+      - title: "Blog"
+        url: "/blog/"
+      - title: "Arquivo"
+        url: "/arquivo"
+
+  - title: "Redes Sociais"
+    links:
+      - title: "Facebook"
+        url: "https://facebook.com"
+      - title: "Twitter"
+        url: "https://twitter.com"
+      - title: "LinkedIn"
+        url: "https://linkedin.com"
+      - title: "GitHub"
+        url: "https://github.com"
+
+  - title: "Contratos"
+    dynamic: true
+    collection: "contratos"  # Nome da sua collection
