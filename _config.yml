@@ -7,7 +7,7 @@ tags: [Rapport Tecnologia, Rapport Bot, Rapport API, Rapport Site, consultoria t
 description: "Rappot Tecnológia é uma empreendimento fortemente atrelado a intelgiência Artificial, visamos oferecer serviços classicos empoderados tanto por Recursos Humanos como Inteligência Artificial. Temos mais de 35 anos de experiência em integração de sistemas, redes e desenvolvimento de softwares. Da Hospedagem do seu site, até a integração de seus sistemas com meios de comunicação via internet, buscamos a melhor solução."
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://rapport.tec.br" # the base hostname & protocol for your site
 
 twitter_username: ""
 github_username: rapporttecnologia
