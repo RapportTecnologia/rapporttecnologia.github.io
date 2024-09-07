@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LGPD - Lei Geral de Proteção de Dados"
-description: "Resumo da Lei Geral de Proteção de Dados (LGPD), explicando os direitos e obriga%C3%A7%C3%B5es relacionados %C3%A0 privacidade e proteção de dados no Brasil."
+description: "Resumo da Lei Geral de Proteção de Dados (LGPD), explicando os direitos e obrigações relacionados à privacidade e proteção de dados no Brasil."
 tags: [LGPD, proteção de dados, privacidade, leis brasileiras, segurança de dados, RAPPORT, RAPPORT OS, RAPPORT BOT, RAPPORT API, inteligência artificial, AI, chatbot, compliance]
 permalink: /lgpd/
 ---
