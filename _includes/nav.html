@@ -15,12 +15,9 @@
       <!-- Menu Links -->
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="{{ '/' | relative_url }}">Início</a></li>
-          <li><a href="{{ '/blog/' | relative_url }}"">Nosso Blog</a></li>
-          <li><a href="{{ '/sobre' | relative_url }}">Sobre</a></li>
-          <li><a href="/#portfolio">Portfólio</a></li>
-          <li><a href="/#contato">Contato</a></li>
-          <li><a href="{{ '/contrato-pt-br' | relative_url }}">Contrato (PT-BR)</a></li>
+          {% for nav in site.data.nav.header %}
+          <li><a href="{{ nav.link | relative_url }}">{{ nav.title }}</a></li>
+          {% endfor %}
         </ul>
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container -->
