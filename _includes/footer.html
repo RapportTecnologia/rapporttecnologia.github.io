@@ -29,10 +29,9 @@
         <div class="col-md-3 col-sm-6">
           <h4>Contratos</h4>
           <ul class="list-unstyled">
-            <li><a href="{{ '/contrato-pt-br' | relative_url }}">Português (BR)</a></li>
-            <li><a href="{{ '/contrato-en' | relative_url }}">Inglês (EN)</a></li>
-            <li><a href="{{ '/contrato-es' | relative_url }}">Espanhol (ES)</a></li>
-            <li><a href="{{ '/contrato-fr' | relative_url }}">Francês (FR)</a></li>
+            {% for contrato in site.contratos %}
+            <li><a href="{{ contrato.url }}">{{ contrato.title }}</a></li>
+            {% endfor %}
           </ul>
         </div>
       </div>

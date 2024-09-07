@@ -25,6 +25,9 @@ collections:
   portfolio:
     output: true
     permalink: /projetos/:path/
+  contratos:
+    output: true
+    permalink: /contrato/:path/
 
 # Definir a estrutura de URL dos posts
 permalink: /blog/:categories/:title/
