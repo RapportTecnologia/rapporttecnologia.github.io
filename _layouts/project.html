@@ -25,7 +25,7 @@
       <div class="col-lg-8 col-lg-offset-2">
         <!-- Imagem do Projeto -->
         <div class="project-image text-center">
-          <img src="{{ site.baseurl }}/img/portfolio/{{ page.image }}" class="img-responsive" alt="{{ page.title }}">
+          <img src="{% if project.image contains 'http' %}{{ project.image }}{% else %}{{ site.baseurl }}/img/portfolio/{{ project.image }}{% endif %}" class="img-responsive" alt="{{ page.title }}">
         </div>
 
         <!-- Conteúdo Detalhado do Projeto -->
