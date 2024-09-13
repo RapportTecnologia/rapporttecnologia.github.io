@@ -33,6 +33,12 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}" type="text/css">
   
+    <!-- page custom CSS -->
+     <style>
+      header {
+        background-image: url('{% if page.image %}{% if page.collection == 'post' %}{{ site.urlimg }}/{{ page.image }}{% else %}{{site.url}}/{{ site.urlimg }}/{{ page.collection }}/{{page.image}}{% endif %}{% else %}{{ site.urlimg }}/{{ site.defaultimg }}{% endif %}');
+      }
+     </style>
     <!-- Favicon -->
     <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
 

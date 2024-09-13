@@ -8,6 +8,8 @@ description: "Rappot Tecnológia é uma empreendimento fortemente atrelado a int
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://rapport.tec.br" # the base hostname & protocol for your site
+urlimg: "img"
+defaultimg: "header.jpg"
 
 twitter_username: ""
 github_username: rapporttecnologia
@@ -28,6 +30,14 @@ collections:
   contratos:
     output: true
     permalink: /contrato/:path/
+  
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "contratos"
+    values:
+      image: "header.jpg"
 
 # Definir a estrutura de URL dos posts
 permalink: /blog/:categories/:title/

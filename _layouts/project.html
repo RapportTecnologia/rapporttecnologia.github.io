@@ -1,32 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  {% include head.html %}
-</head>
-
-<body id="page-top">
-  <!-- Navegação -->
-  {% include nav.html %}
-
-  <!-- Conteúdo Principal do Projeto -->
-  <div class="container t30">
-    <div class="row">
-      <div class="col-lg-12">
-        <header class="page-header text-center">
-          <h1>{{ page.title }}</h1>
-          <p class="text-muted">{{ page.description }}</p>
-          <hr>
-        </header>
-      </div>
-    </div>
-
+---
+layout: default
+---
+  <!-- Conteúdo -->
+  <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2">
-        <!-- Imagem do Projeto -->
-        <div class="project-image text-center">
-          <img src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.baseurl }}/img/portfolio/{{ page.image }}{% endif %}" class="img-responsive" alt="{{ page.title }}">
-        </div>
 
         <!-- Conteúdo Detalhado do Projeto -->
         <div class="project-content">
@@ -35,18 +13,3 @@
       </div>
     </div>
   </div>
-
-  <!-- Rodapé -->
-  {% include footer.html %}
-
-  <!-- Scripts -->
-  {% include scripts.html %}
-
-
-  <!-- Scripts Específicos (Tawk.to e WhatsApp) -->
-  {% include tawkto.html %}
-  {% include whatsappme.html %}
-
-</body>
-
-</html>
