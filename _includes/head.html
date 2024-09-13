@@ -36,7 +36,7 @@
     <!-- page custom CSS -->
      <style>
       header {
-        background-image: url('{% if page.image %}{% if page.collection == 'post' %}{{ site.urlimg }}/{{ page.image }}{% else %}{{site.url}}/{{ site.urlimg }}/{{ page.collection }}/{{page.image}}{% endif %}{% else %}{{ site.urlimg }}/{{ site.defaultimg }}{% endif %}');
+        background-image: url('{% if page.image %}{% if page.collection == 'post' %}{{ site.url }}/{{ site.urlimg }}/{{ page.image }}{% else %}{{site.url}}/{{ site.urlimg }}/{{ page.collection }}/{{page.image}}{% endif %}{% else %}{{site.url}}/{{ site.urlimg }}/{{ site.defaultimg }}{% endif %}');
       }
      </style>
     <!-- Favicon -->
