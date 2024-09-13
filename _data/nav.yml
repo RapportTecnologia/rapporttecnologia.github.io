@@ -9,7 +9,7 @@ header:
     title: Portfólio
   - link: '/#contato'
     title: Contato
-  - link: '/contrato-pt-br'
+  - link: '/contrato/pt-br'
     title: Contrato (PT-BR)
     lang: pt-br
 columns:
