@@ -13,6 +13,12 @@ header:
     title: Contrato (PT-BR)
     lang: pt-br
 columns:
+  - title: "Suporte"
+    links:
+      - title: "Fale com a Gente"
+        url: "/fale-com-a-gente"
+      - title: "Supporte"
+        url: "https://ticket.rapport.tec.br"
   - title: "Seções do Site"
     links:
       - title: "Início"
