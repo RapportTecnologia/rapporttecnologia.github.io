@@ -8,11 +8,19 @@
             {% if column.dynamic and column.collection %}
               {% assign collection_items = site[column.collection] %}
               {% for item in collection_items %}
-                <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+                <li>
+                  {% if item.icon %}
+                    <span class="fa fa-{{ item.icon | downcase }}"></span>
+                  {% endif %}
+                  <a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
               {% endfor %}
             {% else %}
               {% for link in column.links %}
-                <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+              <li>
+                {% if link.icon %}
+                  <i class="fa fa-{{ link.icon }}"></i>
+                {% endif %}
+                <a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
               {% endfor %}
             {% endif %}
           </ul>
