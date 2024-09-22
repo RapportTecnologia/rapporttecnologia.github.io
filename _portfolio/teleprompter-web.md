@@ -6,4 +6,4 @@ image: "rapportteleprompterweb.png"
 ---
 <div id="root"></div>
 <link href="/css/rapportteleprompterweb/main.f9195b1f.css" rel="stylesheet"></link>
-<script defer="defer" src="/js/rapportteleprompterweb/main.a74e020e.js"></script>
+<script defer="defer" src="/js/rapportteleprompterweb/main.3e609819.js"></script>
