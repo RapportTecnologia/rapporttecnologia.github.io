@@ -7,7 +7,7 @@ header:
     title: Sobre
   - link: '/#portfolio'
     title: Portfólio
-  - link: '/#contato'
+  - link: '/contato'
     title: Contato
   - link: '/contrato/pt-br'
     title: Contrato (PT-BR)
@@ -28,7 +28,7 @@ columns:
       - title: "Portfólio"
         url: "#portfolio"
       - title: "Contato"
-        url: "#contato"
+        url: "/contato"
       - title: "Blog"
         url: "/blog/"
       - title: "Arquivo"
