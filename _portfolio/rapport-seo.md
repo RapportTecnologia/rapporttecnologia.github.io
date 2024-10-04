@@ -2,6 +2,7 @@
 layout: project  
 title: "Rapport SEO"  
 description: "O Rapport SEO é direcionado para pequenas empresas, microempresas e profissionais liberais, oferecendo um serviço completo de otimização, gerenciamento de indexação em serviços de busca e monitoramento constante de métricas."
+tags: [Rapport SEO, otimização para motores de busca, SEO para pequenas empresas, microempresas, profissionais liberais, aumento de visibilidade online, indexação de sites, Google Analytics, MS Clarity, SEO técnico, análise de tráfego, comportamento dos usuários, acompanhamento de conversões, ranqueamento no Google, SEO personalizado, estratégias de SEO, monitoramento de métricas, presença online, SEO para pequenas empresas, microempresas, profissionais liberais]
 image: "rapportSEO.png"  
 ---
 

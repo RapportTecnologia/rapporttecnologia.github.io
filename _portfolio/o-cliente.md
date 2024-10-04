@@ -2,6 +2,7 @@
 layout: project
 title: "O Cliente"
 description: "O cliente é o foco de todas as operações da Rapport. Trabalhamos para garantir que cada solução atenda às suas necessidades, oferecendo suporte personalizado e resultados concretos."
+tags: [foco no cliente, soluções personalizadas, microempreendedores, autônomos, profissionais liberais, gestão de negócios, automação de atendimento, suporte contínuo, consultoria especializada, crescimento empresarial, facilidade de uso, feedback contínuo, sucesso do cliente, soluções digitais, Rapport Bot, Rapport API, Rapport Site, ferramentas acessíveis, pequenos negócios]
 image: "project6.png"
 ---
 

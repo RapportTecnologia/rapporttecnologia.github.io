@@ -2,6 +2,7 @@
 layout: project
 title: "Rapport API"
 description: "A Rapport API integra seus serviços de comunicação com plataformas como WhatsApp, Telegram, e CRM, proporcionando uma solução eficiente e segura de automação."
+tags: [Rapport API, integração de plataformas, automação de atendimento, WhatsApp, Telegram, CRM, pequenos negócios, microempreendedores, gestão de clientes, fluxo de automação, sincronização de dados, mensagens automáticas, segurança de dados, conformidade LGPD, criptografia de ponta a ponta, integração com redes sociais, e-commerce, notificações automáticas, agendamento de horários, personalização de atendimento]
 image: "project4.png"
 ---
 

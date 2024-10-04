@@ -2,6 +2,7 @@
 layout: project
 title: "Rapport OS"
 description: "O Rapport OS é o sistema operacional otimizado para suportar os serviços Rapport, incluindo Rapport Bot, Rapport API e serviços relacionados."
+tags: [Rapport OS, sistema operacional otimizado, Rapport Bot, Rapport API, dispositivos embarcados, Raspberry Pi, Nano Pi, Banana Pi, automação de serviços, integração com LLMs, ChatGPT, Claude, Gemini, tokenização de dados, processamento de linguagem natural, NLP, segurança de dados, criptografia, Linux, suporte a plataformas, inteligência artificial, servidores de baixo custo]
 image: "project1.png"
 ---
 
