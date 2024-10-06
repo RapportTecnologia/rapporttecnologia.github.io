@@ -3,7 +3,7 @@ layout: page
 title: "O Poder das URLs encurtadas e o uso de UTM, como fazer corretamente"
 description: "Descubra como utilizar UTMs e URLs encurtadas para otimizar suas campanhas digitais e obter resultados mais precisos, com o sistema do Rapport que integra WhatsApp, rastreamento e encurtadores de links."
 categories: [Rapport Bot]
-tags: 
+tags: [Rapport Bot, WhatsApp, rastreamento, encurtadores de links, URLs encurtadas, UTM, domínios personalizados] 
 author: Carlos Delfino
 ---
 Na era digital, entender o comportamento dos usuários no seu site é crucial para qualquer negócio ou projeto online. Duas ferramentas importantes para isso são os **UTM parameters** e as **URLs encurtadas**. Mas o que exatamente são essas tecnologias e como elas ajudam você a acompanhar suas campanhas? Vamos explicar de forma simples e prática.
