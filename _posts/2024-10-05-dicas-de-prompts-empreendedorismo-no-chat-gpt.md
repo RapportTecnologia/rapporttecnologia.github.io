@@ -2,6 +2,7 @@
 layout: page
 title: "Dicas de prompts empreendedorismo no ChatGPT"
 description: "Como usar o chatGPT e dicas de prompts empreendedorismo e marketing para o seu negócio"
+tags: [chatgpt, prompts, empreendedorismo, marketing]
 date: "2024-10-05"
 ---
 
