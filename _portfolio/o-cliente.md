@@ -6,9 +6,9 @@ tags: [foco no cliente, soluções personalizadas, microempreendedores, autônom
 image: "project6.png"
 ---
 
-## O Cliente: O Centro de Todas as Operações
+## O Cliente em Primeiro Lugar: Sua Jornada, Nosso Compromisso
 
-Na **Rapport Tecnologia**, **o cliente** é o foco de todas as nossas operações. Sabemos que cada negócio é único, e por isso trabalhamos lado a lado com você para garantir que nossas soluções atendam às suas necessidades específicas. Queremos que você tenha à disposição ferramentas que realmente façam a diferença no seu dia a dia, com suporte dedicado e personalizado.
+Na **Rapport Tecnologia**, você é o centro de tudo! Entendemos que cada cliente tem sua história e desafios únicos. Por isso, nosso compromisso é entregar soluções sob medida, suporte próximo e resultados reais para o seu negócio prosperar. Aqui, sua experiência vem antes de qualquer tecnologia.
 
 ### Foco nas Necessidades do Cliente
 

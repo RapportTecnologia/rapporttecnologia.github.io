@@ -6,11 +6,11 @@ tags: [Rapport Bot, automação de atendimento, pequenos negócios, microempreen
 image: "project3.png"
 ---
 
-## O que é o Rapport Bot?
+## Rapport Bot: Atendimento Inteligente 24h para Seu Negócio
 
-O **Rapport Bot** é uma solução automatizada especialmente projetada para **microempreendedores**, **autônomos** e **pequenos negócios**, como **salões de beleza**, **manicures**, **técnicos de manutenção** e outros profissionais que precisam atender seus clientes de forma rápida e eficiente, sem sacrificar o atendimento presencial.
+O **Rapport Bot** é o seu assistente virtual que nunca dorme! Perfeito para **microempreendedores**, **autônomos** e **pequenos negócios** que querem automatizar o atendimento, responder clientes na hora e nunca perder uma oportunidade.
 
-O Rapport Bot ajuda esses empreendedores a **automatizar o atendimento** de consultas frequentes, como **agendamento de horários**, **preços de serviços** e **informações básicas**, permitindo que eles se concentrem no atendimento presencial ou em outras tarefas importantes, enquanto o bot cuida das interações online e por mensagens.
+Agende horários, informe preços e tire dúvidas automaticamente — tudo isso enquanto você foca no que realmente importa: atender bem e crescer.
 
 ### Benefícios do Rapport Bot para Microempreendedores e Autônomos
 
