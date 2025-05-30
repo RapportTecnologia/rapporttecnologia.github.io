@@ -7,7 +7,7 @@ layout: null
   {%- for page in site.pages -%}
     <url>
       <loc>{{ site.url }}{{ page.url | replace:'index.html','' }}</loc>
-      <lastmod>{{ page.last_modified_at | date: "%Y-%m-%d" }}</lastmod>
+      {%- if page.last_modified_at %}<lastmod>{{ page.last_modified_at | date: "%Y-%m-%d" }}</lastmod>{%- endif -%}
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -16,7 +16,7 @@ layout: null
   {%- for post in site.posts -%}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
-      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {%- if post.date %}<lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>{%- endif -%}
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -26,7 +26,7 @@ layout: null
     {%- for item in collection.docs -%}
       <url>
         <loc>{{ site.url }}{{ item.url }}</loc>
-        <lastmod>{{ item.date | date_to_xmlschema }}</lastmod>
+        {%- if item.date %}<lastmod>{{ item.date | date: "%Y-%m-%d" }}</lastmod>{%- endif -%}
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
       </url>
