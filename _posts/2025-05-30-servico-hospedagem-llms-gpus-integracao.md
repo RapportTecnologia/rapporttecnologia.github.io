@@ -1,7 +1,7 @@
 ---
 title: "Novo Serviço: Hospedagem de LLMs, GPUs e Integração Personalizada"
 date: 2025-05-30 15:48:21 -0300
-categories: [novidades, tecnologia, LLMs]
+categories: [novidades, tecnologia, LLMs, hospedagem, GPUs, integração, IA generativa, IA, IA para negócios, OpenAI, chatGPT, Claude, Gemini, Anthropic, Claude, DeepSeek, Qwen, Llama, Claude, Ollama]
 ---
 
 ## Apresentamos nosso novo serviço de Hospedagem de LLMs, GPUs e Integração com LLMs!
