@@ -33,7 +33,9 @@ O *Rapport Teleprompter Web* é uma solução ideal para criadores de conteúdo 
 
 Se você grava vídeos curtos ou produz conteúdos mais longos, como tutoriais ou palestras, o *Rapport Teleprompter* pode transformar sua rotina de criação, facilitando o processo e melhorando a qualidade final. 
 
+----
+
 <div id="root"></div>
-<link href="/css/rapportteleprompterweb/main.f9195b1f.css" rel="stylesheet"></link>
-<script defer="defer" src="/js/rapportteleprompterweb/main.3e609819.js"></script>
+<link href="/css/rapportteleprompterweb/main.a6474397.css" rel="stylesheet"></link>
+<script defer="defer" src="/js/rapportteleprompterweb/main.ac8a23d4.js"></script>
 
