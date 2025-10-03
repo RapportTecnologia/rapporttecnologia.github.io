@@ -29,8 +29,8 @@ Você pode baixar a versão mais recente a partir de duas fontes oficiais:
 - **GitHub Releases**: versões estáveis, changelogs e builds oficiais.
   - Link: https://github.com/RapportTecnologia/GenAI-E-Book-Reader/releases
 
-- **Pling (Linux, comunidade)**: alternativa popular para usuários Linux, com informações e feedback da comunidade.
-  - Link: https://www.pling.com/p/2321960/
+- **Pling (Linux, comunidade)**: alternativa popular para usuários Linux ou windows, com informações e feedback da comunidade.
+  - [Link: https://store.kde.org/p/2321960/](https://store.kde.org/p/2321960)
 
 ### Dicas de instalação (Linux AppImage)
 
