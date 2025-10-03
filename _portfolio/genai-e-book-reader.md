@@ -42,7 +42,7 @@ Você pode baixar a versão mais recente a partir de duas fontes oficiais:
 
 O GenAI E-Book Reader é um projeto vivo. Novidades e melhorias são planejadas de forma contínua. Se você deseja sugerir recursos, reportar problemas ou contribuir com código, visite o repositório e abra uma issue ou pull request.
 
-- Repositório: https://github.com/RapportTecnologia/GenAI-E-Book-Reader
+- [Repositório: https://github.com/RapportTecnologia/GenAI-E-Book-Reader](https://github.com/RapportTecnologia/GenAI-E-Book-Reader)
 
 ## Suporte e contato
 
