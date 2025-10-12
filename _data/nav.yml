@@ -44,7 +44,14 @@ columns:
         url: "https://linkedin.com"
       - title: "GitHub"
         url: "https://github.com/rapporttecnologia"
-
+  - title: "Serviços"
+    links:
+      - title: "Serviço de Busca"
+        url: "https://busca.rapport.tec.br"
+      - title: "Optimização de Prompt"
+        url: "https://prompt.rapport.tec.br"
+      - title: "Indexação de grupos"
+        url: "https://groups.rapport.tec.br"
   - title: "Contratos"
     dynamic: true
     collection: "contratos"  # Nome da sua collection

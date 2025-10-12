@@ -27,6 +27,9 @@ collections:
   portfolio:
     output: true
     permalink: /projetos/:path/
+  clientes:
+    output: true
+    permalink: /clientes/:path/
   contratos:
     output: true
     permalink: /contrato/:path/
