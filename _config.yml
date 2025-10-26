@@ -59,3 +59,13 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - LICENSE
+  - .gitignore
+  - CNAME
+  - _draft
