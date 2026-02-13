@@ -10,7 +10,7 @@
         <!-- Loop sobre a coleção de portfolio -->
         {% for project in site.portfolio %}
         <div class="col-md-4 col-sm-6 portfolio-item">
-          <a href="{{ project.url | relative_url }}" class="portfolio-link">
+          <a href="{% if project.external_url %}{{ project.external_url }}{% else %}{{ project.url | relative_url }}{% endif %}" class="portfolio-link" {% if project.external_url %}target="_blank" rel="noopener noreferrer"{% endif %}>
             <div class="portfolio-hover">
               <div class="portfolio-hover-content">
                 <i class="fa fa-plus fa-3x"></i>
