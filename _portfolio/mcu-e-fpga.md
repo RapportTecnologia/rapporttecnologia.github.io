@@ -11,8 +11,6 @@ tags: [MCU, FPGA, eletrônica digital, sistemas embarcados, IoT, microcontrolado
 
 O **MCU & FPGA** é o laboratório avançado da Árvore dos Saberes financiado pela Rapport. Aqui é onde os talentos que iniciam no [Basicão da Eletrônica](/projetos/basicao-da-eletronica/) mergulham em **sistemas digitais, arquiteturas MCU, FPGAs e pipelines de IoT** que abastecem projetos como o [Café Expresso](/projetos/cafe-expresso/) e soluções corporativas do [Sistemas Embarcados e AIoT](/projetos/sistemas-embarcados-aiot/).
 
-![Protótipo com FPGA e SBC lado a lado](/img/portfolio/MCU-e-FPGA.png)
-
 ### O que acontece dentro do MCU & FPGA
 
 - **Workshops práticos** com placas ESP32, STM32 e dev kits FPGA.

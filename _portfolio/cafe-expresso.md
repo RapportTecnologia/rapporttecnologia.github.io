@@ -76,8 +76,6 @@ O projeto é desenvolvido em parceria com profissionais experientes em sistemas 
 - **[Carlos Delfino](https://carlosdelfino.eti.br)**: Arquitetura de sistemas e integração.
 - **Rapport Sistemas Embarcados**: Time dedicado que também lidera projetos como [Sistemas Embarcados e AIoT](/projetos/sistemas-embarcados-aiot/) e integra o firmware com o [Rapport OS](/projetos/rapport-os/) para implantações distribuídas.
 
-![Rede de vending machines conectadas](/img/portfolio/project4.png)
-
 ### Conclusão
 
 O **Café Expresso** é a solução ideal para quem deseja modernizar equipamentos autônomos com cobrança via PIX, oferecendo uma experiência de pagamento rápida, segura e sem fricção para seus clientes.
