@@ -10,6 +10,8 @@ image: "IoT-AIoT-GenAI.png"
 
 Na **Rapport Tecnologia**, unimos mais de **35 anos de experiência em TICs** com o que há de mais atual em **sistemas embarcados** e **AIoT (Artificial Intelligence of Things)**. Nosso foco é simples e direto: **fazer o seu projeto dar certo**.
 
+> **Nosso objetivo é o sucesso de seu projeto.**
+
 Mais do que “fazer funcionar”, nosso compromisso é com **resultado**, **confiabilidade** e **escalabilidade**. Ajudamos você desde a concepção da ideia até a implementação em campo, sempre escolhendo as tecnologias mais adequadas para o seu caso – nem mais complexas do que o necessário, nem limitadas demais para o que você precisa.
 
 ### O que Fazemos em Sistemas Embarcados e AIoT
@@ -60,6 +62,7 @@ Quando faz sentido para o negócio, conectamos sua solução embarcada e IoT a s
   - **OpenAI**
   - **Gemini (Google)**
   - **Claude (Anthropic)**
+- Linha **IBM Granite** (incluindo o modelo **Granite TTM Time Series**), para previsões multivariadas, detecção de anomalias e ajustes rápidos em streams industriais — [saiba mais](https://www.ibm.com/granite/docs/models/time-series)
 - Construção de fluxos inteligentes para análise de dados, relatórios, assistência técnica remota e interação com usuários finais
 
 ### Parcerias, Sociedade e Prestação de Serviços
