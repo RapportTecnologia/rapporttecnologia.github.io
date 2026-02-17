@@ -16,11 +16,23 @@ O ativo de verdade não é o sensor, mas o **dado processado com qualidade e com
 
 ---
 
+### Papéis na Rede
+
+A plataforma define cinco papéis principais:
+
+- **Sensor**: dispositivo físico que coleta, assina e transmite dados. Possui identidade criptográfica própria (par de chaves assimétricas) e identidade lógica na rede.
+- **Dono de Sensor**: pessoa ou organização responsável por um ou mais sensores. Gerencia o ciclo de vida do dispositivo (registro, calibração, manutenção e desativação) e recebe a parcela de tokens proporcional ao score dos seus sensores.
+- **Dono de Gateway de Borda**: operador de um nó de borda que valida, agrega e encaminha dados dos sensores conectados. O Dono de Gateway de Borda é também Dono de Sensor e vice-versa — ambos os papéis podem coexistir na mesma entidade, compartilhando responsabilidades de infraestrutura e coleta.
+- **Usuário de Dados**: cliente externo (empresa, prefeitura, laboratório ou desenvolvedor) que consome produtos de dados da rede mediante pagamento em moeda estável, gerando a receita real que ancora o token.
+- **Administradores**: responsáveis pela governança do protocolo — definem parâmetros de emissão, políticas antifraude, SLAs de referência, subsídios regionais e atualizações de regras da rede.
+
+---
+
 ### Operação Mínima e Identidade Criptográfica
 
-Sensores ingressam na rede com **identidade criptográfica** (chaves assimétricas) e identidade lógica. Cada ciclo gera um pacote assinado contendo timestamp, metadados de calibração e a medição ou evento. O gateway ou nó de borda verifica a assinatura, checa consistência temporal e executa **regras antifraude** (taxa máxima de eventos, coerência física, detecção de duplicidade, tolerância a falhas). Somente após essa validação o dado é aceito como **entrega válida**.
+Cada **Sensor** ingressa na rede com identidade criptográfica (par de chaves assimétricas) e identidade lógica, registrado pelo seu **Dono de Sensor**. A cada ciclo, o Sensor gera um pacote assinado contendo timestamp, metadados de calibração e a medição ou evento. O **Dono de Gateway de Borda** opera o nó que verifica a assinatura, checa consistência temporal e executa **regras antifraude** (taxa máxima de eventos, coerência física, detecção de duplicidade, tolerância a falhas). Somente após essa validação o dado é aceito como **entrega válida**.
 
-A rede atualiza um **placar de contribuição** por janela de tempo, onde cada sensor recebe um score composto por:
+A rede atualiza um **placar de contribuição** por janela de tempo, onde cada Sensor recebe um score composto por:
 
 - **Qualidade do sinal**
 - **Disponibilidade**
@@ -34,12 +46,12 @@ Esse score cria a contabilidade interna de quem merece participar do valor quand
 
 ### Mercado Externo e Receita Real
 
-Um cliente (empresa, prefeitura, laboratório) solicita um **produto de dados** com parâmetros claros: região, período, resolução temporal, tipos de eventos e SLA (latência, confiabilidade). O pagamento é feito em moeda estável ao **tesouro do protocolo**.
+Um **Usuário de Dados** (empresa, prefeitura, laboratório) solicita um **produto de dados** com parâmetros claros: região, período, resolução temporal, tipos de eventos e SLA (latência, confiabilidade). O pagamento é feito em moeda estável ao **tesouro do protocolo**.
 
 No instante em que o pagamento é confirmado e a entrega é concluída, o protocolo executa automaticamente a **partição do valor recebido**:
 
 - **Custos operacionais e infraestrutura**
-- **Remuneração dos provedores** (sensores e gateways)
+- **Remuneração dos provedores** (Donos de Sensor e Donos de Gateway de Borda)
 - **Reserva para criação de demanda** do token no mercado secundário
 
 A lógica é sempre a mesma: primeiro entra dinheiro de fora, depois ele é distribuído e só então o token aparece.
@@ -65,10 +77,10 @@ Em cada epoch, a rede soma os scores válidos de todos os sensores que participa
 
 **Tokens do sensor i = TokensDoEpoch × (Si / S_total)**
 
-- **70%** do pool para sensores
-- **30%** para nós de borda que validaram e agregaram dados
+- **70%** do pool para **Donos de Sensor** (proporcional ao score dos seus Sensores)
+- **30%** para **Donos de Gateway de Borda** que validaram e agregaram dados
 
-O score só é contabilizado se o dado entrou em um **lote entregue para uma ordem paga**, impedindo a geração de dados aleatórios para farmar tokens. Sensores que enviam dados inconsistentes, duplicados ou simulados sofrem **penalidades**: perda de score, corte de stake ou banimento temporário.
+O score só é contabilizado se o dado entrou em um **lote entregue para uma ordem paga**, impedindo a geração de dados aleatórios para farmar tokens. Sensores que enviam dados inconsistentes, duplicados ou simulados sofrem **penalidades** aplicadas pelos **Administradores**: perda de score, corte de stake ou banimento temporário.
 
 ---
 
@@ -78,8 +90,8 @@ O token possui utilidade clara e forçada dentro do ecossistema:
 
 - **Crédito de acesso** para consumir dados com preço preferencial
 - **Taxa para camadas premium** de dados e análises
-- **Governança** para definir quais regiões receberão subsídios de expansão
-- **Pagamento de serviços internos**: registro de novos sensores, calibração, publicação de modelos de inferência para a camada cognitiva
+- **Governança** para que **Administradores** definam quais regiões receberão subsídios de expansão
+- **Pagamento de serviços internos**: registro de novos Sensores, calibração, publicação de modelos de inferência para a camada cognitiva
 
 Uma fração da receita do tesouro **recompra tokens no mercado** (ou queima tokens recebidos como pagamento), criando **pressão de compra recorrente** conectada à saúde financeira da rede.
 
@@ -87,14 +99,14 @@ Uma fração da receita do tesouro **recompra tokens no mercado** (ou queima tok
 
 ### Ciclo Completo por Epoch
 
-1. **Coleta**: sensores coletam e assinam dados
-2. **Validação**: nós de borda validam e agregam, gerando lotes vinculados a ordens
-3. **Pagamento**: ordens são pagas e entregues; a rede registra a receita confirmada
+1. **Coleta**: Sensores coletam e assinam dados sob gestão dos Donos de Sensor
+2. **Validação**: Donos de Gateway de Borda validam e agregam, gerando lotes vinculados a ordens
+3. **Pagamento**: Usuários de Dados pagam e recebem as entregas; a rede registra a receita confirmada
 4. **Cálculo**: o protocolo define o pool de remuneração a partir da receita elegível
 5. **Emissão**: aplica a função de emissão lastreada e calcula os tokens do epoch
-6. **Distribuição**: tokens distribuídos proporcionalmente ao score dos contribuidores de entregas pagas
-7. **Sustentabilidade**: executa recompra/queima conforme política definida
-8. **Atualização**: atualiza reputação e parâmetros antifraude para a próxima janela
+6. **Distribuição**: tokens distribuídos proporcionalmente ao score dos Donos de Sensor e Donos de Gateway de Borda
+7. **Sustentabilidade**: executa recompra/queima conforme política definida pelos Administradores
+8. **Atualização**: Administradores atualizam reputação e parâmetros antifraude para a próxima janela
 
 O token não é o ponto de partida — é o **subproduto da operação bem-sucedida**. Sem cliente pagando por dado, não há emissão relevante, tornando o modelo resistente a bolhas vazias e esquemas inflacionários.
 
