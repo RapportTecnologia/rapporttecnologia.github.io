@@ -11,6 +11,10 @@ O **Café Expresso** é uma plataforma de pagamentos PIX embarcada em ESP32 para
 
 Nosso sistema conecta seu equipamento ao PIX: o cliente faz o pagamento, o ESP32 valida o comprovante e o equipamento é liberado automaticamente pelo tempo ou quantidade configurada.
 
+![Fluxo PIX embarcado com ESP32](/img/portfolio/rapport-pix.png)
+
+> O mesmo núcleo de automação que equipa o Café Expresso conversa com a [Rapport API](/projetos/rapport-api/) e com o [Rapport Bot](/projetos/rapport-bot/) para disparar notificações, atualizar CRMs e abrir chamados sem esforço humano.
+
 ### Integração Embarcada
 
 O sistema roda diretamente no **ESP32**, sem precisar de computador local. Isso torna a solução ideal para pontos remotos e dispositivos autônomos, reduzindo custos de infraestrutura e simplificando a instalação.
@@ -70,6 +74,9 @@ O **Café Expresso** utiliza tecnologia de ponta com suporte a **WiFi 6**, permi
 O projeto é desenvolvido em parceria com profissionais experientes em sistemas embarcados e IoT:
 
 - **[Carlos Delfino](https://carlosdelfino.eti.br)**: Arquitetura de sistemas e integração.
+- **Rapport Sistemas Embarcados**: Time dedicado que também lidera projetos como [Sistemas Embarcados e AIoT](/projetos/sistemas-embarcados-aiot/) e integra o firmware com o [Rapport OS](/projetos/rapport-os/) para implantações distribuídas.
+
+![Rede de vending machines conectadas](/img/portfolio/project4.png)
 
 ### Conclusão
 

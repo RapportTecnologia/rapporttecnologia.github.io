@@ -10,6 +10,8 @@ image: "project4.png"
 
 A **Rapport API** é uma solução desenvolvida para integrar suas plataformas de comunicação com os serviços oferecidos pela **Rapport**, facilitando a **automação de interações com clientes** e a **integração com sistemas externos**. Se você utiliza o **Rapport Bot**, deseja conectar seu negócio ao **WhatsApp**, **Telegram**, ou precisa integrar seu atendimento a um **CRM**, a Rapport API oferece as ferramentas necessárias para realizar essas integrações de maneira eficiente, segura e escalável.
 
+> O **[Rapport Bot](/projetos/rapport-bot/)** opera 100% apoiado na Rapport API, que centraliza os webhooks, sincroniza mensagens e garante que cada interação automatizada esteja alinhada aos dados do seu CRM.
+
 ### Benefícios da Rapport API
 
 A **Rapport API** foi projetada para ajudar **microempresas**, **autônomos** e **pequenos negócios** a conectarem suas plataformas de comunicação com serviços automatizados, sem a necessidade de grandes investimentos em desenvolvimento. Com ela, você pode **automatizar interações**, **gerenciar mensagens** e **sincronizar dados** com outros sistemas, como CRMs ou plataformas de e-commerce.

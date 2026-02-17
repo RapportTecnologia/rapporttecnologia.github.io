@@ -10,6 +10,8 @@ image: "genai-search.png"
 
 O **GenAI Search** é um sistema de busca orientado à **semântica** que entrega resultados mais relevantes ao compreender o significado das consultas, e não apenas palavras-chave. Ele se integra à engine **OpenRoute.ai**, permitindo a **troca dinâmica de modelos** conforme a demanda do negócio (qualidade, custo, latência), e utiliza o **Rapport RAG** para buscar dados em qualquer fonte informada pelo cliente.
 
+Toda a camada de modelos é disponibilizada pela oferta **[LLM Generativa e Integração](/projetos/generativa/)**, garantindo que o cliente escolha entre hospedagem dedicada, implantação on-premises ou operação híbrida com total governança sobre dados sensíveis.
+
 Ideal para empresas que precisam localizar **documentos**, **sites**, **e-mails** e **dados de sistemas de gestão** de forma rápida, segura e contextualizada — em ambiente **privado**, na nuvem ou on‑premises.
 
 ## Principais capacidades
@@ -42,7 +44,7 @@ Ideal para empresas que precisam localizar **documentos**, **sites**, **e-mails*
 2. **Representação semântica**: criação de embeddings e sinais contextuais para ranking.
 3. **Roteamento de modelos (OpenRoute.ai)**: seleção dinâmica do melhor modelo por consulta.
 4. **RAG (Rapport)**: recuperação das passagens relevantes e geração de respostas com citações.
-5. **Feedback e melhoria**: ajuste contínuo de relevância com base no uso real.
+5. **Feedback e melhoria**: ajuste contínuo de relevância com base no uso real, com re-treinamentos supervisionados via plataforma **Generativa**.
 
 ## Benefícios para sua empresa
 

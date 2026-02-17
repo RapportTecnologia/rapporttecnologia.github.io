@@ -51,3 +51,24 @@ Na Rapport Tecnologia, o **cliente está no centro de tudo** o que fazemos. Trab
 
 Se você quer saber mais sobre como podemos ajudar a **facilitar suas operações** e garantir o sucesso do seu negócio, entre em contato conosco e descubra como a **Rapport** pode transformar o jeito que você trabalha.
 
+### Conheça todos os nossos serviços
+
+- [Basicão da Eletrônica](/projetos/basicao-da-eletronica/)
+- [Café Expresso](/projetos/cafe-expresso/)
+- [Consultoria IoT, IIoT e AIoT](/projetos/consultoria-iot-iiot-aiot/)
+- [Consultoria Rapport Tecnologia](/projetos/consultoria/)
+- [Redes Cognitivas CriptoSensor](/projetos/criptosensor/)
+- [Fonte Chaveada e Outros Circuitos DC-DC](/projetos/fonte-chaveada/)
+- [GenAI Search](/projetos/genai-search/)
+- [LLM Generativa e Integração](/projetos/generativa/)
+- [MCU & FPGA](/projetos/mcu-e-fpga/)
+- [Rapport API](/projetos/rapport-api/)
+- [Rapport Bot](/projetos/rapport-bot/)
+- [Rapport OS](/projetos/rapport-os/)
+- [Rapport RH Inteligënte](/projetos/rapport-rh-inteligente/)
+- [Rapport SEO](/projetos/rapport-seo/)
+- [Rapport Site](/projetos/rapport-site/)
+- [Sistemas Embarcados e AIoT](/projetos/sistemas-embarcados-aiot/)
+- [TAWK.to](/projetos/tawk-to/)
+- [Rapport Teleprompter Web](/projetos/teleprompter-web/)
+

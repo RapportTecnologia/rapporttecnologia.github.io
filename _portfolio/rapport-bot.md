@@ -12,6 +12,8 @@ O **Rapport Bot** é o seu assistente virtual que nunca dorme! Perfeito para **m
 
 Agende horários, informe preços e tire dúvidas automaticamente — tudo isso enquanto você foca no que realmente importa: atender bem e crescer.
 
+> Todo fluxo do bot é orquestrado pela **[Rapport API](/projetos/rapport-api/)**, que conecta WhatsApp, Telegram e CRMs para manter dados sincronizados em tempo real.
+
 ### Benefícios do Rapport Bot para Microempreendedores e Autônomos
 
 - **Atendimento Automatizado 24/7**: Mesmo quando você está ocupada com clientes no salão ou realizando serviços, o Rapport Bot está disponível para responder às dúvidas dos seus clientes em tempo real, permitindo que eles façam consultas sobre horários, preços e outros detalhes a qualquer momento do dia.

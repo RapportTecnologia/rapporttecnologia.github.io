@@ -12,6 +12,8 @@ O **Rapport SEO** é a solução para quem quer ser encontrado e crescer de verd
 
 Com as melhores práticas de SEO, monitoramento contínuo e ferramentas como **Google Analytics** e **MS Clarity**, seu site estará sempre otimizado, atraindo mais visitantes e convertendo oportunidades em negócios.
 
+> Todo site entregue pela solução [Rapport Site](/projetos/rapport-site/) já nasce com o motor do Rapport SEO — e cada nova otimização de SEO retroalimenta o pacote de criação de sites, garantindo evolução contínua das duas ofertas.
+
 ### Quem Pode Se Beneficiar do Rapport SEO?
 
 O Rapport SEO foi criado para atender às necessidades de:

@@ -12,6 +12,8 @@ O **RH** é um dos setores mais importantes de uma empresa: é nele que acontece
 
 Pensando nisso, estamos desenvolvendo o **Rapport RH Inteligënte** — um produto baseado em um **agente agentic especializado** em **Terapia Cognitivo-Comportamental (TCC)** e integrado com **tool calling** para apoiar o time de RH de forma proativa, rastreável e adaptável às necessidades de cada empresa.
 
+Esse agente é alimentado pela nossa oferta **[LLM Generativa e Integração](/projetos/generativa/)**, garantindo privacidade e personalização de modelos para cada cliente, seja em nuvem privada ou on-premises.
+
 ## Como funciona (chat e diário)
 
 O **Rapport RH Inteligënte** opera como um **agente interativo**. O colaborador acessa um **chat** (com login) e é convidado a iniciar com uma **apresentação** e o seu **diário do dia**. A partir daí, o agente conduz a conversa de forma natural, incentivando o usuário a compartilhar seu dia a dia — **sucessos**, **falhas**, **frustrações** e **alegrias**.
@@ -37,6 +39,8 @@ Como o ambiente de interação é **totalmente automatizado**, cria-se um **laç
 ## Por que isso é diferente
 
 O **Rapport RH Inteligënte** é um agente **especializado e adaptável**: ele pode ser ajustado aos processos internos, políticas e linguagem da empresa, mantendo consistência e rastreabilidade das ações.
+
+Graças ao backbone fornecido pela solução **Generativa**, o RH Inteligënte consegue trocar modelos rapidamente, combinar contextos de dados e incorporar novas ferramentas corporativas sem reconstruir o fluxo conversacional.
 
 ## Benefícios esperados
 

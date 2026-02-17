@@ -12,6 +12,8 @@ tags: [CriptoSensor, AIoT, IoT, cidades inteligentes, smart cities, redes cognit
 
 Uma plataforma para **Redes AIoT**, **Redes Cognitivas de Sensores (CSN)** e **Cidades Inteligentes**, onde o token só nasce quando existe **atividade econômica real e mensurável**. A emissão deixa de ser um "ato de fé" e passa a ser uma consequência automática do funcionamento da rede.
 
+O **CriptoSensor** nasce como produto direto do programa [Sistemas Embarcados e AIoT Rapport Tecnologia](/projetos/sistemas-embarcados-aiot/), aproveitando todo o ferramental de hardware, gateways e operação em campo oferecidos por essa frente. Para dar inteligência às análises e à governança do protocolo, conectamos a camada cognitiva à oferta [LLM Generativa e Integração](/projetos/generativa/), garantindo modelos privados e adaptados a cada ecossistema urbano.
+
 O ativo de verdade não é o sensor, mas o **dado processado com qualidade e com utilidade** para quem consome a informação. A rede define um catálogo de **produtos de dados** — pacotes de telemetria, séries temporais agregadas, eventos detectados por inferência local e relatórios de contexto gerados pela camada cognitiva — cada um com preço em moeda estável (fiat, PIX, cartão, stablecoin), porque é essa **entrada externa que ancora o valor do token**.
 
 ---

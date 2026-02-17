@@ -38,6 +38,7 @@ Para profissionais liberais e pequenas empresas que dependem de **clientes locai
 - **SEO Local**: O Rapport Site é otimizado para **motores de busca**, o que garante que seu negócio seja encontrado com mais facilidade por potenciais clientes na sua região. Isso é especialmente importante para profissionais como advogados, contadores e técnicos que dependem de clientes locais.
 - **Google Meu Negócio**: Integração com o **Google Meu Negócio**, permitindo que seu site esteja vinculado às pesquisas locais no Google, aumentando a visibilidade do seu negócio na região.
 - **Ferramentas de Automação de Marketing**: Integrações com ferramentas como **Mailchimp** ou **RD Station**, facilitando o envio de campanhas de email marketing para promover seus serviços e eventos.
+- **Pacote completo com [Rapport SEO](/projetos/rapport-seo/)**: todo site sai acompanhado do nosso serviço especializado de otimização contínua, garantindo monitoramento de métricas, ajustes técnicos e evolução de conteúdo alinhados às campanhas digitais.
 
 ### Segurança e Estabilidade
 

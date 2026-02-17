@@ -57,6 +57,7 @@ Buscamos sempre a **melhor tecnologia para o seu projeto**, e não o contrário.
 
 Quando faz sentido para o negócio, conectamos sua solução embarcada e IoT a serviços de **Inteligência Artificial Generativa (GenAI)**, ampliando o valor da sua aplicação:
 
+- Toda a camada cognitiva é entregue pela nossa solução **[LLM Generativa e Integração](/projetos/generativa/)**, que provê modelos customizados, hospedações on-premises e segurança alinhada à LGPD.
 - Servidor próprio para **GenAI**, ideal para cenários que exigem **mais controle**, **privacidade** e **customização**
 - Integrações por API com:
   - **OpenAI**
