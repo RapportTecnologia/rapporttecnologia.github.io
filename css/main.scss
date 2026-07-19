@@ -176,4 +176,25 @@ header {
 .navbar-default{
     background-color: #f05f408a;
     }
-          
+
+// Portfolio grid
+#portfolio .row {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1cm;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#portfolio .portfolio-item {
+    width: 100%;
+    float: none;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+#portfolio .portfolio-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
