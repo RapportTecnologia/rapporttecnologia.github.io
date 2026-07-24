@@ -3,7 +3,7 @@ layout: project
 title: "Cursos de Curta Duração"
 description: "Programas de capacitação tecnológica presencial e a distância desenvolvidos em parceria com prefeituras, cooperativas, associações de bairro e comunidades periféricas. Capilarizamos conhecimento de ponta com abordagem integrativa, resolução de problemas locais e geração de oportunidades reais de crescimento."
 tags: [cursos, educação, capacitação, EAD, presencial, automação, robótica educacional, microcontroladores, lógica de programação, linguagem C, Node, React, Flutter, ciência de dados, IoT, indústria, WEB 3.0, WEB 4.0, IA agentica, IA distribuída, smart contracts, Solidity, Rust, periferia, comunidade, parcerias, prefeitura, cooperativa, associação, inovação social]
-image: "cursos-de-curta-duracao.svg"
+image: "cards/cursos-de-curta-duracao.webp"
 ---
 
 ## Cursos de Curta Duração

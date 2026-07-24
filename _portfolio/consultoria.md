@@ -3,7 +3,7 @@ layout: project
 title: "Consultoria Rapport Tecnologia"
 description: "A consultoria da Rapport Tecnologia oferece suporte personalizado para ajudar micro e pequenos negócios a maximizar o uso das soluções digitais, garantindo sucesso e crescimento."
 tags: [consultoria tecnológica, pequenos negócios, microempreendedores, profissionais liberais, automatização de atendimento, Rapport Bot, Rapport API, Rapport Site, otimização de agendamentos, suporte contínuo, integração digital, segurança de dados, conformidade LGPD, negócios locais, soluções digitais, automação empresarial, atendimento personalizado, suporte técnico]
-image: "project5.png"
+image: "cards/consultoria.webp"
 ---
 
 ## Transforme Seu Negócio com a Consultoria Rapport Tecnologia
@@ -63,4 +63,3 @@ Pronto para transformar seu negócio? Fale com a Rapport e descubra como a tecno
 A **Consultoria Rapport** oferece uma abordagem personalizada para ajudar **pequenos negócios**, **autônomos** e **microempreendedores** a **maximizar o uso das soluções digitais** oferecidas pela Rapport. Com suporte especializado e contínuo, ajudamos a integrar tecnologias como **Rapport Bot**, **Rapport API** e **Rapport Site**, facilitando o crescimento e a eficiência de sua operação.
 
 Se você deseja tirar o máximo proveito das nossas soluções digitais e garantir que seu negócio esteja preparado para crescer no ambiente digital, entre em contato com nossa equipe e descubra como a **Consultoria Rapport** pode transformar sua operação.
-

@@ -3,7 +3,7 @@ layout: project
 title: "Rapport RH Inteligënte"
 description: "Agente de RH inteligente e adaptável, com Terapia Cognitivo-Comportamental (TCC) e tool calling, para detectar estresse, riscos e demandas de treinamento, gerando alertas e documentando necessidades do time."
 tags: [RH, Recursos Humanos, IA, IA Generativa, Agentes, Agentic, Tool Calling, TCC, Terapia Cognitivo-Comportamental, Saúde Organizacional, Stress, Alertas, Treinamentos, Cursos, Pesquisa na Internet, Documentação, Compliance, LGPD, Cultura, Feedback, People Analytics]
-image: "rapport-rh-inteligente.svg"
+image: "cards/rapport-rh-inteligente.webp"
 ---
 
 ## Rapport RH Inteligënte

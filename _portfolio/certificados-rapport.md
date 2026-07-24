@@ -2,7 +2,7 @@
 layout: project
 title: "Emissor de Certificados Rapport"
 description: "Novo paradigma de certificados de alto valor agregado registrados de forma imutável em blockchains Web 3.0. O emissor da Rapport utiliza NFT TBA para agregar conquistas e certificados ao longo da jornada educacional."
-image: "certificados.png"
+image: "cards/certificados-rapport.webp"
 tags: [certificados, blockchain, Web 3.0, NFT, TBA, emissor de certificados, Ethereum, Polygon, Solana, educação, gamificação, carteira criptográfica, imutabilidade, certificação digital]
 ---
 

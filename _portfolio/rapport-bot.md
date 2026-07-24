@@ -3,7 +3,7 @@ layout: project
 title: "Rapport Bot"
 description: "O Rapport Bot é uma solução acessível e automatizada para pequenos negócios e autônomos, facilitando o atendimento aos clientes com rapidez e eficiência."
 tags: [Rapport Bot, automação de atendimento, pequenos negócios, microempreendedores, autônomos, agendamento automático, WhatsApp, Telegram, atendimento 24/7, redução de tempo de resposta, integração de plataformas, segurança de dados, criptografia, conformidade LGPD, promoções automáticas, notificações de compromissos, personalização de atendimento, solução acessível, profissionais de estética, técnicos de manutenção]
-image: "project3.png"
+image: "cards/rapport-bot.webp"
 ---
 
 ## Rapport Bot: Atendimento Inteligente 24h para Seu Negócio
@@ -62,4 +62,3 @@ O **Rapport Bot** é a solução ideal para microempreendedores e profissionais 
 Com o Rapport Bot, você pode **agendar compromissos**, fornecer **informações sobre preços e serviços**, e responder perguntas frequentes de maneira rápida e eficiente, tudo isso através de plataformas de mensagens como o WhatsApp.
 
 Se você deseja melhorar o atendimento do seu negócio e garantir que seus clientes recebam respostas rápidas e precisas, entre em contato conosco para saber como o **Rapport Bot** pode ajudar sua empresa a crescer.
-

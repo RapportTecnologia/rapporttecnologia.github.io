@@ -2,7 +2,7 @@
 layout: project
 title: "Rapport Teleprompter Web"
 description: "Rapport Teleprompter Web é um simples porém poderoso teleprompter online, ideal para gravação de vídeos curtos e longos, oferecendo praticidade para criadores de conteúdo no YouTube e Instagram."
-image: "rapportteleprompterweb.png"
+image: "cards/teleprompter-web.webp"
 tags: [teleprompter, gravação de vídeos, criadores de conteúdo, youtube, instagram, reels, shorts, textos longos, memorização de textos, teleprompter web, ferramenta para vídeos, praticidade na gravação, teleprompter online, vídeos longos, vídeos curtos, dados e nomes, produção de vídeos, gravação de conteúdo, criadores de conteúdo, o que é o Rapport Teleprompter Web]
 ---
 
@@ -38,4 +38,3 @@ Se você grava vídeos curtos ou produz conteúdos mais longos, como tutoriais o
 <div id="root"></div>
 <link href="/css/rapportteleprompterweb/main.a6474397.css" rel="stylesheet"></link>
 <script defer="defer" src="/js/rapportteleprompterweb/main.ac8a23d4.js"></script>
-

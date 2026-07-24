@@ -2,7 +2,7 @@
 layout: project
 title: "TAWK.to"
 description: "Tawk.to é uma ferramenta poderosa de atendimento ao cliente via chat ao vivo, integrando comunicação rápida e eficiente para aumentar o engajamento e melhorar o suporte em negócios online."
-image: tawkto-localize-message-v1.png"
+image: "cards/tawk-to.webp"
 tags: tawk.to, atendimento ao cliente, chat ao vivo, suporte ao cliente, ferramentas de comunicação, engajamento, negócios online, atendimento via chat, solução de suporte, plataforma de chat, suporte 24/7, chatbot, marketing digital, conversão de leads, clientes online, ferramenta de suporte ao cliente
 ---
 
@@ -46,4 +46,3 @@ Para obter mais informações ou para começar a usar o *Tawk.to* em seu negóci
 <hr>
 
 <a href="https://www.tawk.to/software/live-chat?pid=vkxxafk&campaign=Rapport Tecnologia" target="_blank"><img src="https://partners.tawk.to/badges/partner.png" width="150" /></a>
-

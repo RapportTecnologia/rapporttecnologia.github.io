@@ -3,7 +3,7 @@ layout: project
 title: "Rapport API"
 description: "A Rapport API integra seus serviços de comunicação com plataformas como WhatsApp, Telegram, e CRM, proporcionando uma solução eficiente e segura de automação."
 tags: [Rapport API, integração de plataformas, automação de atendimento, WhatsApp, Telegram, CRM, pequenos negócios, microempreendedores, gestão de clientes, fluxo de automação, sincronização de dados, mensagens automáticas, segurança de dados, conformidade LGPD, criptografia de ponta a ponta, integração com redes sociais, e-commerce, notificações automáticas, agendamento de horários, personalização de atendimento]
-image: "project4.png"
+image: "cards/rapport-api.webp"
 ---
 
 ## O que é a Rapport API?
@@ -61,4 +61,3 @@ A **Rapport API** pode ser utilizada em uma variedade de cenários para simplifi
 A **Rapport API** é uma solução robusta e acessível para **microempreendedores** e **pequenos negócios** que desejam automatizar seus processos de atendimento e integrar suas plataformas de comunicação. Com a API, você pode conectar **WhatsApp**, **Telegram** e **CRM**, facilitando a gestão de interações e oferecendo uma experiência personalizada aos seus clientes.
 
 Se você deseja melhorar a eficiência do seu atendimento e integrar suas plataformas de comunicação com sistemas de automação e gestão, entre em contato conosco para saber como a **Rapport API** pode transformar a maneira como você gerencia suas interações e dados.
-

@@ -3,7 +3,7 @@ layout: project
 title: "Sistemas Embarcados e AIoT Rapport Tecnologia"
 description: "Serviços especializados em desenvolvimento de sistemas embarcados e soluções AIoT, com foco em computação de borda, integração em nuvem e escolha da melhor tecnologia para o sucesso do seu projeto."
 tags: [sistemas embarcados, AIoT, IoT, computação de borda, Raspberry Pi, NanoPi, SBC industrial, ESP32, ESP-IDF, AVR, Cortex-M, Arduino, baremetal, C, C++, cmake, Python, NodeJS, JavaScript, Typescript, React, MQTT, REST, dashboards, integração em nuvem, OpenAI, Gemini, Claude, GenAI, parcerias tecnológicas, serviços sob medida]
-image: "IoT-AIoT-GenAI.png"
+image: "cards/sistemas-embarcados-aiot.webp"
 ---
 
 ## Sistemas Embarcados e AIoT para Projetos que Saem do Papel

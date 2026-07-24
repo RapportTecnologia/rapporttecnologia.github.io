@@ -3,7 +3,7 @@ layout: project
 title: "Smart Contracts & Blockchain"
 description: "Desenvolvimento de Smart Contracts utilizando Solidity e conceitos avançados de programação para sistemas distribuídos como dAPP, DeFi, supply chain, prontuários médicos soberanos e certificados verificáveis."
 tags: [smart contracts, blockchain, solidity, dAPP, DeFi, supply chain, SSI, VC, certificados verificáveis, sistemas distribuídos, programação descentralizada, ethereum, web3, criptomoedas, contratos inteligentes, desenvolvimento blockchain, rapaport tecnologia]
-image: "smartcontracts.png"
+image: "cards/smart-contracts.webp"
 ---
 
 ## Smart Contracts & Blockchain Development

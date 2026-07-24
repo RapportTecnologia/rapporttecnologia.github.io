@@ -3,7 +3,7 @@ layout: project
 title: "Rapport Site"
 description: "O Rapport Site é direcionado para pequenas empresas, microempresas e profissionais liberais, oferecendo um serviço completo de criação e hospedagem de sites e landing pages."
 tags: [Rapport Site, criação de sites, hospedagem de sites, landing pages, pequenas empresas, microempresas, profissionais liberais, presença digital, SEO local, Google Meu Negócio, automação de marketing, certificados SSL, segurança de sites, suporte técnico, marketing local, Mailchimp, RD Station, sites personalizados, alta disponibilidade, expansão de sites, e-commerce básico, marketing digital, landing pages, landing pages personalizadas, SEO para pequenas empresas, microempresas, profissionais liberais]
-image: "project2.png"
+image: "cards/rapport-site.webp"
 ---
 
 ## Seu Site Profissional com o Rapport Site
@@ -65,4 +65,3 @@ O Rapport Site é ideal para quem quer um **site simples e direto** que possa cr
 O **Rapport Site** foi projetado especialmente para **pequenas empresas**, **microempresas** e **profissionais liberais** que desejam construir sua presença digital de forma simples, eficiente e econômica. Com foco em **hospedagem segura**, **sites personalizados** e **suporte especializado**, o Rapport Site é a solução perfeita para quem precisa de um site funcional e bem estruturado, sem complicações.
 
 Se você é um profissional autônomo, possui uma pequena empresa ou presta serviços em nível local e precisa de um site confiável para fortalecer sua presença online, entre em contato conosco para saber como o **Rapport Site** pode ajudá-lo a alcançar mais clientes e crescer digitalmente.
-

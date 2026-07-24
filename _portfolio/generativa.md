@@ -3,7 +3,7 @@ layout: project
 title: "LLM Generativa e Integração"
 description: "Serviços especializados em hospedagem, implantação local e integração de LLMs (Modelos de Linguagem de Grande Escala) para empresas, com desenvolvimento de middlewares e soluções personalizadas para sistemas de gestão e ambientes industriais."
 tags: [LLM, Inteligência Artificial, Modelos de Linguagem, Servidores LLM, Integração de Sistemas, Middleware, IA Generativa, Automação Industrial, Gestão Empresarial, Soluções Personalizadas, On-Premises, Privacidade, Segurança de Dados, Transformação Digital, OpenAI, GPT, Claude, Anthropic, DeepSeek, Qwen, Gemini, Ollama, Llama, Mistral, Assistentes Virtuais, Chatbots, Inovação]
-image: "generativa.png"
+image: "cards/generativa.webp"
 ---
 
 ## LLM Generativa e Integração

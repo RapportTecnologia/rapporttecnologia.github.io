@@ -3,7 +3,7 @@ layout: project
 title: "Café Expresso"
 description: "Plataforma de cobrança automática via PIX para equipamentos autônomos, embarcada em ESP32, ideal para vending machines, lavanderias automáticas, portões, cancelas e qualquer dispositivo que precise cobrar antes de funcionar."
 tags: [PIX, ESP32, IoT, cobrança automática, vending machine, lavanderia automática, sistemas embarcados, automação, pagamentos, equipamentos autônomos, portões, cancelas, microcontrolador, gestão em tempo real, dashboard, integração embarcada, WiFi 6, redes mesh, sistema cognitivo, resiliência, roteamento dinâmico]
-image: "rapport-pix.png"
+image: "cards/cafe-expresso.webp"
 ---
 ## O que é o Café Expresso?
 

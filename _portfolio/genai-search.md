@@ -3,7 +3,7 @@ layout: project
 title: "GenAI Search"
 description: "Sistema de busca semântica com troca dinâmica de modelos via OpenRoute.ai, indexação de sites e documentos privados, e RAG do Rapport para conectar qualquer fonte de dados corporativa."
 tags: [GenAI Search, busca semântica, OpenRoute.ai, RAG, Rapport RAG, indexação de documentos, indexação de sites, busca corporativa, segurança, privacidade, multi-model, LLM, embeddings, chat com documentos, produtividade]
-image: "genai-search.png"
+image: "cards/genai-search.webp"
 ---
 
 ## O que é o GenAI Search

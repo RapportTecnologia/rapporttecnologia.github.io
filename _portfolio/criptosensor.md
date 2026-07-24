@@ -2,7 +2,7 @@
 layout: project
 title: "Redes Cognitivas para Sistemas AIoT ancorado em Criptomoedas"
 description: "Dados de Sensores como Lastro para Informações de Sensores IoT — Plataforma para Redes AIoT, Redes Cognitivas de Sensores (CSN) e Cidades Inteligentes, onde tokens são emitidos exclusivamente a partir de atividade econômica real, ancorados na entrega verificável de dados de sensores IoT."
-image: "criptosensor.png"
+image: "cards/criptosensor.webp"
 tags: [CriptoSensor, AIoT, IoT, cidades inteligentes, smart cities, redes cognitivas, CSN, Cognitive Sensor Networks, criptomoeda, token, blockchain, sensores, dados, lastro, edge computing, sistemas embarcados, Rapport Tecnologia]
 ---
 

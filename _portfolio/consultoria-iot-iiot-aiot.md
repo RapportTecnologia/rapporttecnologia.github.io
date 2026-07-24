@@ -3,7 +3,7 @@ layout: project
 title: "Consultoria IoT, IIoT e AIoT"
 description: "Desenvolvemos ecossistemas IoT/IIoT/AIoT completos, do frontend React ao firmware em FreeRTOS/Zephyr, com redes de sensores cognitivas, MQTT privado, edge computing e IA aplicada."
 tags: [IoT, IIoT, AIoT, consultoria, redes de sensores, edge computing, MQTT, FreeRTOS, Zephyr, React, NodeJS, Express, Postgres, Blockchain, ESP32, STM32, ATMega, Cortex-M, digital twin, AI, firmware, frontend]
-image: "aiot-consultoria.svg"
+image: "cards/consultoria-iot-iiot-aiot.webp"
 ---
 
 ## Redes de Sensores Cognitivas para Dados que Guiam Decisões
