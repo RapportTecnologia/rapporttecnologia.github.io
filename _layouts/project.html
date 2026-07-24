@@ -13,3 +13,12 @@ layout: default
       </div>
     </div>
   </div>
+
+  {% if page.portfolio_collection %}
+    {% include portfolio.html
+       collection=page.portfolio_collection
+       section_id=page.portfolio_section_id
+       title=page.portfolio_title
+       subtitle=page.portfolio_subtitle
+       sort_by=page.portfolio_sort_by %}
+  {% endif %}

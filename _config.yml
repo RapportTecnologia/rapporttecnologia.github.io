@@ -36,6 +36,9 @@ collections:
   portfolio:
     output: true
     permalink: /projetos/:path/
+  cursos:
+    output: true
+    permalink: /cursos/:path/
   clientes:
     output: true
     permalink: /clientes/:path/
