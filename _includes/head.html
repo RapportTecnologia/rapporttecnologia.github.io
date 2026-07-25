@@ -1,7 +1,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  
+
     <!-- Título da Página -->
     {% unless site.plugins contains 'jekyll-seo-tag' %}
       <title>{{ page.title }} - {{ site.title }}</title>
@@ -43,6 +43,10 @@
   
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}" type="text/css">
+
+    {% if page.custom_css %}
+      <link rel="stylesheet" href="{{ page.custom_css | relative_url }}" type="text/css">
+    {% endif %}
   
     <!-- page custom CSS -->
      <style>
@@ -59,4 +63,3 @@
     {% include adsense.html %}
     <!-- Scripts -->
     {% include scripts.html %}
-  

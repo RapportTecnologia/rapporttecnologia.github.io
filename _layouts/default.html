@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: 'pt-BR' }}">
 
 <head>
   {% include head.html %}
@@ -11,7 +11,9 @@
   {% include nav.html %}
   
   <!-- Header -->
-  {% include header.html %}
+  {% unless page.hide_site_header %}
+    {% include header.html %}
+  {% endunless %}
 
 {{ content }}
 

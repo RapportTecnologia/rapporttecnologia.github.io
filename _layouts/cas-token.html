@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<main
+  class="cas-token-page"
+  data-cas-terminal
+  data-network="{{ page.network_id }}"
+  data-token-address="{{ page.token_address }}">
+  <section class="cas-hero" aria-labelledby="cas-page-title">
+    <div class="cas-shell cas-hero__grid">
+      <div class="cas-hero__content">
+        <div class="cas-eyebrow">
+          <img src="{{ '/img/tokens/cas-token.png' | relative_url }}" alt="" width="40" height="40">
+          <span>Criptocoin Agentic Space</span>
+        </div>
+        <h1 id="cas-page-title">{{ page.title }}</h1>
+        <p class="cas-hero__lead">{{ page.description }}</p>
+        <ul class="cas-badges" aria-label="Características do token">
+          <li>ERC-20</li>
+          <li>Polygon PoS</li>
+          <li>Chain ID {{ page.chain_id }}</li>
+          <li>UUPS atualizável</li>
+        </ul>
+        <div class="cas-contract" aria-label="Endereço do contrato">
+          <span>Contrato CAS</span>
+          <code id="cas-contract-address">{{ page.token_address }}</code>
+        </div>
+        <div class="cas-hero__actions">
+          <a class="cas-button cas-button--primary" href="#tokenomics">Entender o tokenomics</a>
+          <a class="cas-button cas-button--ghost" href="#terminal">Ver dados de mercado</a>
+        </div>
+      </div>
+      <div class="cas-hero__visual" aria-hidden="true">
+        <div class="cas-orbit cas-orbit--outer"></div>
+        <div class="cas-orbit cas-orbit--inner"></div>
+        <div class="cas-token-medallion">
+          <img src="{{ '/img/tokens/cas-token.png' | relative_url }}" alt="" width="240" height="240">
+        </div>
+        <span class="cas-node cas-node--one">ERC-20</span>
+        <span class="cas-node cas-node--two">Polygon</span>
+        <span class="cas-node cas-node--three">10M max</span>
+      </div>
+    </div>
+  </section>
+
+  {{ content }}
+</main>
