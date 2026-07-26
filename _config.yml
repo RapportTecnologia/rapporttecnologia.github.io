@@ -72,3 +72,9 @@ exclude:
   - .gitignore
   - CNAME
   - _draft
+  # O plugin jekyll-feed gera /feed.xml; este arquivo legado duplicava essa rota.
+  - feed/feed.xml
+  # Materiais de referência não são conteúdo publicado.
+  - _posts/*.readme
+  # As folhas XSLT são referências estáticas e não usam um layout Jekyll.
+  - xslt
