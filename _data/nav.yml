@@ -5,6 +5,8 @@ header:
     title: Nosso Blog
   - link: '/sobre'
     title: Sobre
+  - link: '/servicos-rapport/'
+    title: Serviços
   - link: '/#portfolio'
     title: Portfólio
   - link: '/contato'
