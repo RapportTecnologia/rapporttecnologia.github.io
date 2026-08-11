@@ -1,6 +1,5 @@
-@use "sass:color";
-@use "variables" as *;
-@use "mixins" as *;
+@import "variables";
+@import "mixins";
 
 html,
 body {
@@ -27,7 +26,7 @@ a {
     color: $theme-primary;
     &:hover,
     &:focus {
-        color: color.adjust($theme-primary, $lightness: -10%);
+        color: darken($theme-primary, 10%);
     }
 }
 
@@ -85,7 +84,7 @@ aside {
         text-transform: uppercase;
         &:hover,
         &:focus {
-            color: color.adjust($theme-primary, $lightness: -10%);
+            color: darken($theme-primary, 10%);
         }
     }
     .nav {
@@ -137,7 +136,7 @@ aside {
                 font-size: 14px;
                 &:hover,
                 &:focus {
-                    color: color.adjust($theme-primary, $lightness: -10%);
+                    color: darken($theme-primary, 10%);
                 }
             }
             .nav > li > a,

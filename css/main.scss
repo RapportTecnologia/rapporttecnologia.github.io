@@ -34,9 +34,9 @@
 // }
 
 // Load Sass modules from `sass_dir` (defaults to `_sass`).
-@use "variables" as *;
-@use "mixins" as *;
-@use "base" as *;
+@import "variables";
+@import "mixins";
+@import "base";
 
 // Homepage Header
 
