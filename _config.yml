@@ -63,6 +63,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
+include:
+  - ".well-known"
+
+
 exclude:
   - Gemfile
   - Gemfile.lock
