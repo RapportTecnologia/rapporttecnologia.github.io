@@ -9,8 +9,12 @@ header:
     title: Serviços
   - link: '/#portfolio'
     title: Portfólio
-  - link: '/contato'
-    title: Contato
+  - title: Agendamentos
+    children:
+      - link: '/contato'
+        title: Contato
+      - link: '/consultoria'
+        title: Consultoria
   - link: '/contrato/pt-br'
     title: Contrato (PT-BR)
     lang: pt-br
@@ -31,6 +35,8 @@ columns:
         url: "#portfolio"
       - title: "Contato"
         url: "/contato"
+      - title: "Consultoria"
+        url: "/consultoria"
       - title: "Blog"
         url: "/blog/"
       - title: "Arquivo"
