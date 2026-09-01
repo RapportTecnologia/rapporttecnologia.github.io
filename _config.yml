@@ -25,6 +25,7 @@ github_username: rapporttecnologia
 
 # Build settings
 markdown: kramdown
+destination: .jekyll-site
 
 collections:  
   # Ativar posts
@@ -74,7 +75,6 @@ exclude:
   - README.md
   - LICENSE
   - .gitignore
-  - CNAME
   - _draft
   # O plugin jekyll-feed gera /feed.xml; este arquivo legado duplicava essa rota.
   - feed/feed.xml
