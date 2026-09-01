@@ -1,10 +1,17 @@
 ---
 layout: page
 language: pt-br
-title: Aguarde Estamos Trabalhando para melhor lhe atender.
-description: Estamos em desenvolvimento e logo-logo, esta página estaŕ apronto para lhe atender
-tags: [ingeligência artificial, chatGPT, LLM, FSM, NLP, FSM-NLP, RAPPORT, RAPPORT OS, RAPPORT, BOT, RAPPORT BOT, RAPPORT API, API]
+title: Portfólio Rapport Tecnologia
+description: Conheça os produtos, projetos, soluções e serviços desenvolvidos pela Rapport Tecnologia.
+tags: [Rapport, portfólio, produtos, projetos, soluções digitais, inteligência artificial, IoT, blockchain, automação, tecnologia]
 redirect_from: /portfolio
 permalink: /portfolio
+hide_site_header: true
 ---
-# Estamos Trabalhando
+
+{% include portfolio.html
+   collection="portfolio"
+   section_id="portfolio-completo"
+   title="Todo o Portfólio"
+   subtitle="Explore outros produtos, projetos e soluções desenvolvidos pela Rapport Tecnologia."
+   exclude_featured=true %}

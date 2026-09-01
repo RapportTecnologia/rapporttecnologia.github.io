@@ -4,6 +4,7 @@ title: "Agentic Space"
 description: "Plataforma de orquestração de agentes de IA para automação de processos, integração de sistemas e execução de tarefas complexas de forma colaborativa e inteligente."
 tags: [Agentic Space, agentes de IA, automação, orquestração, IA generativa, LLM, fluxos de trabalho, integração de sistemas, produtividade, inteligência artificial, Rapport, multi-agente]
 image: "cards/agentic-space.webp"
+featured: true
 ---
 
 ## O que é o Agentic Space

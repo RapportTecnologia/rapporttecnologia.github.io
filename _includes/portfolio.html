@@ -1,11 +1,17 @@
 {% assign collection_name = include.collection | default: "portfolio" %}
 {% assign collection_items = site[collection_name] %}
+{% if include.featured_only %}
+  {% assign collection_items = collection_items | where: "featured", true %}
+{% elsif include.exclude_featured %}
+  {% assign collection_items = collection_items | where_exp: "item", "item.featured != true" %}
+{% endif %}
 {% if include.sort_by %}
   {% assign collection_items = collection_items | sort: include.sort_by %}
 {% endif %}
 {% assign section_id = include.section_id | default: collection_name %}
 {% assign section_title = include.title | default: "Nosso Portfólio" %}
 {% assign section_subtitle = include.subtitle | default: "Confira alguns dos nossos projetos." %}
+{% assign column_class = include.column_class | default: "col-md-4 col-sm-6" %}
 {% assign image_root = "/img/" | append: collection_name | append: "/" %}
 {% if include.image_root %}
   {% assign image_root = include.image_root %}
@@ -21,7 +27,7 @@
       </div>
       <div class="row portfolio-grid">
         {% for project in collection_items %}
-        <div class="col-md-4 col-sm-6 portfolio-item">
+        <div class="{{ column_class }} portfolio-item">
           <a href="{% if project.external_url %}{{ project.external_url }}{% else %}{{ project.url | relative_url }}{% endif %}" class="portfolio-link" {% if project.external_url %}target="_blank" rel="noopener noreferrer"{% endif %}>
             <div class="portfolio-hover">
               <div class="portfolio-hover-content">
@@ -48,5 +54,12 @@
         </div>
         {% endfor %}
       </div>
+      {% if include.view_all_url %}
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <a href="{{ include.view_all_url | relative_url }}" class="btn btn-primary">{{ include.view_all_label | default: "Ver todo o portfólio" }}</a>
+        </div>
+      </div>
+      {% endif %}
     </div>
   </section>

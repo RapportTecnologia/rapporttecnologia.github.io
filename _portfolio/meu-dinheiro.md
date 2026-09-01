@@ -5,6 +5,7 @@ description: "Carteira Polygon com a simplicidade de uma calculadora, criada par
 tags: [Meu Dinheiro, carteira digital, Polygon, pagamentos locais, QR Code, comunidade, blockchain, React Native, Expo]
 image: "cards/meu-dinheiro.webp"
 external_url: "https://rapport.tec.br/meudinheiro"
+featured: true
 ---
 
 ## Meu Dinheiro
