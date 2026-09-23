@@ -6,7 +6,8 @@ description: "Conheça as soluções da Rapport Tecnologia em diagnóstico de at
 keywords: "Rapport Tecnologia, diagnóstico de transformadores, manutenção preditiva, Agentic Space, inteligência artificial agêntica, Web 3.0, blockchain, criptoativos, capacitação tecnológica"
 tags: [Rapport Tecnologia, Magnetostricção, manutenção preditiva, IoT, inteligência artificial, Agentic Space, Web 3.0, blockchain, criptoativos, capacitação técnica]
 permalink: /servicos-rapport/
-last_modified_at: 2026-07-26
+redirect_from: /portfolio
+last_modified_at: 2026-09-23
 ---
 
 ## Rapport Tecnologia
@@ -44,3 +45,10 @@ Nosso compromisso é capilarizar o conhecimento técnico entre nossos parceiros 
 * **Autonomia e inovação:** empoderamento das equipes internas para operarem com fluidez em ambientes de alta complexidade tecnológica e financeira, tomando decisões embasadas e seguras.
 
 Na Rapport Tecnologia, aliamos inovação disruptiva de software com excelência educacional para transformar dados, conectividade e ativos digitais em inteligência estratégica contínua.
+
+{% include portfolio.html
+   collection="portfolio"
+   section_id="portfolio-completo"
+   title="Todo o Portfólio"
+   subtitle="Explore outros produtos, projetos e soluções desenvolvidos pela Rapport Tecnologia."
+   exclude_featured=true %}
