@@ -7,8 +7,6 @@ header:
     title: Sobre
   - link: '/servicos/'
     title: Serviços
-  - link: '/#portfolio'
-    title: Portfólio
   - title: Agendamentos
     children:
       - link: '/contato'
