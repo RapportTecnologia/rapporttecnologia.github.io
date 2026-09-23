@@ -180,6 +180,17 @@ header {
     margin-left: 0;
 }
 
+// Evita que os pseudo-elementos do clearfix Bootstrap ocupem células do grid
+.portfolio-section .portfolio-grid::before,
+.portfolio-section .portfolio-grid::after {
+    display: none;
+    content: none;
+}
+
+.page-content .portfolio-section .container {
+    max-width: 100%;
+}
+
 .portfolio-section .portfolio-item {
     width: 100%;
     float: none;

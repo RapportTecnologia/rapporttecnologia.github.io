@@ -2,5 +2,6 @@ vendor
 _draft/
 docs/
 _site/
+.jekyll-site/
 .sass-cache/
 *.readme

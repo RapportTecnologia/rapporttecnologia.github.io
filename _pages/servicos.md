@@ -5,8 +5,10 @@ title: "Serviços da Rapport Tecnologia"
 description: "Conheça as soluções da Rapport Tecnologia em diagnóstico de ativos, inteligência artificial agêntica, Web 3.0, criptoativos e capacitação técnica."
 keywords: "Rapport Tecnologia, diagnóstico de transformadores, manutenção preditiva, Agentic Space, inteligência artificial agêntica, Web 3.0, blockchain, criptoativos, capacitação tecnológica"
 tags: [Rapport Tecnologia, Magnetostricção, manutenção preditiva, IoT, inteligência artificial, Agentic Space, Web 3.0, blockchain, criptoativos, capacitação técnica]
-permalink: /servicos-rapport/
-redirect_from: /portfolio
+permalink: /servicos/
+redirect_from:
+  - /portfolio
+  - /servicos-rapport/
 last_modified_at: 2026-09-23
 ---
 

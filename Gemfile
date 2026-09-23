@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'faraday-retry', '~> 2.3'
+gem 'tzinfo', '~> 2.0'
+gem 'tzinfo-data'
 
 group :jekyll_plugins do
   gem 'jekyll-gist'
