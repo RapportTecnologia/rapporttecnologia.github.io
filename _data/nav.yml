@@ -37,6 +37,8 @@ columns:
         url: "/consultoria"
       - title: "Blog"
         url: "/blog/"
+      - title: "Siará Tech Summit"
+        url: "/siara-tech-summit/"
       - title: "Arquivo"
         url: "/arquivo"
 

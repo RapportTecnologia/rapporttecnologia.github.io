@@ -57,6 +57,9 @@ defaults:
 
 # Definir a estrutura de URL dos posts
 permalink: /blog/:categories/:title/
+
+# Permite usar <!--more--> nos posts para delimitar o resumo (excerpt)
+excerpt_separator: <!--more-->
   
 plugins:
   - jekyll-sitemap
