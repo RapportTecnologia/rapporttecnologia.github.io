@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">HMAC Lab — Laboratório Didático de Autenticação de Mensagens</title>
+  <desc id="desc">Uma mensagem e uma chave secreta entram no cálculo HMAC para produzir um código de autenticação.</desc>
+  <rect width="1200" height="800" fill="#101c30"/>
+  <circle cx="1120" cy="60" r="320" fill="#172a44"/>
+  <circle cx="40" cy="790" r="260" fill="#14243b"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="90" y="110" fill="#f5a347" font-size="24" letter-spacing="4">RAPPORT TECNOLOGIA</text>
+    <text x="85" y="248" fill="#ffffff" font-size="112" font-weight="700">HMAC LAB</text>
+    <text x="90" y="310" fill="#c5d3e5" font-size="32">Laboratório de Autenticação de Mensagens</text>
+    <g fill="none" stroke="#67aee8" stroke-width="5" stroke-linejoin="round">
+      <path d="M350 434H410V495H470M350 556H410V495M450 480l20 15-20 15M730 495H850m-20-15 20 15-20 15"/>
+    </g>
+    <rect x="90" y="392" width="260" height="84" rx="16" fill="#203652" stroke="#67aee8" stroke-width="2"/>
+    <rect x="90" y="514" width="260" height="84" rx="16" fill="#203652" stroke="#67aee8" stroke-width="2"/>
+    <rect x="470" y="400" width="260" height="190" rx="20" fill="#f5a347"/>
+    <rect x="850" y="400" width="260" height="190" rx="20" fill="#203652" stroke="#67aee8" stroke-width="2"/>
+    <g text-anchor="middle">
+      <g fill="#ffffff" font-size="26">
+        <text x="220" y="443">MENSAGEM</text>
+        <text x="220" y="565">CHAVE SECRETA</text>
+      </g>
+      <text x="600" y="464" fill="#172238" font-size="22" letter-spacing="3">CÁLCULO</text>
+      <text x="600" y="531" fill="#172238" font-size="52" font-weight="700">HMAC</text>
+      <text x="980" y="464" fill="#c5d3e5" font-size="22" letter-spacing="3">CÓDIGO</text>
+      <text x="980" y="531" fill="#ffffff" font-size="52" font-weight="700">MAC</text>
+    </g>
+    <text x="90" y="687" fill="#ffffff" font-size="29">Calcule. Verifique. Entenda cada etapa.</text>
+    <text x="90" y="737" fill="#91aac8" font-size="23">Hashes · Integridade · Autenticidade</text>
+  </g>
+</svg>
