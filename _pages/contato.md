@@ -4,7 +4,6 @@ language: pt-br
 title: Entre em contato ou agende uma reunião.
 description: Estamos ansiosos para lhe ouvir, agende uma reunião para apresentar seu projeto e demadna.
 tags: [ingeligência artificial, chatGPT, LLM, FSM, NLP, FSM-NLP, RAPPORT, RAPPORT OS, RAPPORT, BOT, RAPPORT BOT, RAPPORT API, API, CusCuZ, Economia Solidária, Cripto Moedas, Blockchain, Web 3.0, Web 4.0, Ethereum, Polygon PoS]
-redirect_from: /contato
 permalink: /contato
 ---
 

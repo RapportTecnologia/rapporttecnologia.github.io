@@ -4,6 +4,7 @@ title: "Rapport Crypto Chat"
 description: "Chat descentralizado com criptografia ponta a ponta, conexões diretas via WebRTC, identidade baseada em carteira Ethereum e pagamentos protegidos por escrow."
 tags: [Rapport Crypto Chat, chat privado, criptografia ponta a ponta, WebRTC, conexão direta, descentralização, blockchain, Ethereum, carteira digital, privacidade, dApp, escrow]
 image: "cards/crypto-chat.webp"
+featured: true
 external_url: "https://crypto-chat.rapport.tec.br"
 redirect_from: /projetos/crypto-p2p-chat/
 ---

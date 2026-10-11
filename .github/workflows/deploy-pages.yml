@@ -25,6 +25,7 @@ jobs:
           bundler-cache: true
       - uses: actions/configure-pages@v5
       - run: bundle exec jekyll build --destination _site
+      - run: bundle exec ruby scripts/check_redirects.rb _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

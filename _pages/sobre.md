@@ -4,7 +4,6 @@ language: pt-br
 title: "Sobre"
 description: "Conheça o histórico profissional de Carlos Delfino e Roberto Placido, nossos principais profissionais, e a parceria tecnológica com a CieDa.com.br."
 tags: [ingeligência artificial, chatGPT, LLM, FSM, NLP, FSM-NLP, RAPPORT, RAPPORT OS, RAPPORT, BOT, RAPPORT BOT, RAPPORT API, API]
-redirect_from: /sobre
 permalink: /sobre
 ---
 

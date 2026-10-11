@@ -72,6 +72,7 @@ include:
 
 
 exclude:
+  - scripts
   - Gemfile
   - Gemfile.lock
   - Rakefile

@@ -5,7 +5,6 @@ title: Contratos
 description: Lista dos Contratos
 tags:
   [ingeligência artificial, chatGPT, LLM, FSM, NLP, LGPD, contratos, GDPR, RGPD, LOPD, FSM-NLP, RAPPORT, RAPPORT OS, RAPPORT, BOT, RAPPORT BOT, RAPPORT API, API]
-redirect_from: /contrato
 permalink: /contratos
 ---
 
