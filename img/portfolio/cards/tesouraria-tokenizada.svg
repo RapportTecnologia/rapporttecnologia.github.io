@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Tesouraria tokenizada e governança distribuída</title>
+  <desc id="desc">Ilustração de uma empresa conectada a contratos inteligentes e a uma rede blockchain.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07182c"/><stop offset="1" stop-color="#102f48"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3c5" stop-opacity=".32"/><stop offset="1" stop-color="#00a8ff" stop-opacity=".12"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#23d7d0" stop-opacity=".28"/><stop offset="1" stop-color="#23d7d0" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/><circle cx="605" cy="390" r="370" fill="url(#glow)"/>
+  <g fill="none" stroke="#39d5d1" stroke-opacity=".36" stroke-width="2">
+    <path d="M170 190 335 280 490 170 630 270 820 165 1010 265M170 610 335 520 490 630 630 530 820 635 1010 535M170 190v420m165-330v240m155-350v460m140-360v260m190-365v470m190-370v270"/>
+    <circle cx="170" cy="190" r="7" fill="#f0c875"/><circle cx="1010" cy="265" r="7" fill="#f0c875"/><circle cx="170" cy="610" r="7" fill="#f0c875"/><circle cx="1010" cy="535" r="7" fill="#f0c875"/>
+  </g>
+  <ellipse cx="600" cy="664" rx="280" ry="40" fill="#00d4d0" opacity=".2" filter="url(#shadow)"/>
+  <g transform="translate(405 195)">
+    <path d="M0 85 195 0l195 85v330H0z" fill="url(#panel)" stroke="#6be5df" stroke-width="3"/>
+    <path d="M42 110h306v264H42z" fill="#091d32" fill-opacity=".86" stroke="#7be6df" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M71 146h248M71 180h248M71 214h248M71 248h248M71 282h248M71 316h248" stroke="#53c9ce" stroke-opacity=".36" stroke-width="3"/>
+    <path d="M96 146v170m55-170v170m55-170v170m55-170v170" stroke="#53c9ce" stroke-opacity=".18" stroke-width="2"/>
+    <circle cx="195" cy="85" r="30" fill="#f0c875" fill-opacity=".94"/><path d="M195 66v38m-10-28h15a8 8 0 0 1 0 16h-15 17a8 8 0 0 1 0 16h-17" fill="none" stroke="#11283a" stroke-width="4" stroke-linecap="round"/>
+    <path d="M112 414v38m166-38v38M82 452h226" stroke="#7be6df" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g fill="#f0c875" stroke="#fff0c1" stroke-width="2">
+    <circle cx="270" cy="400" r="31"/><circle cx="930" cy="405" r="31"/><circle cx="600" cy="108" r="25"/>
+  </g>
+  <g fill="none" stroke="#f8deb0" stroke-width="3" stroke-linecap="round"><path d="M600 93v30m-8-22h12a6 6 0 0 1 0 12h-12 14a6 6 0 0 1 0 12h-14"/><path d="M270 385v30m-8-22h12a6 6 0 0 1 0 12h-12 14a6 6 0 0 1 0 12h-14"/><path d="M930 390v30m-8-22h12a6 6 0 0 1 0 12h-12 14a6 6 0 0 1 0 12h-14"/></g>
+</svg>
