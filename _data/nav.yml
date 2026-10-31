@@ -5,8 +5,14 @@ header:
     title: Nosso Blog
   - link: '/sobre'
     title: Sobre
-  - link: '/servicos/'
-    title: Serviços
+  - title: Portfólio
+    children:
+      - link: '/servicos/'
+        title: Portfólio
+      - link: '/contratos'
+        title: Contratos
+      - link: '/crypto-faucets/'
+        title: Cripto Faucets
   - title: Agendamentos
     children:
       - link: '/contato'
@@ -39,6 +45,8 @@ columns:
         url: "/blog/"
       - title: "Siará Tech Summit"
         url: "/siara-tech-summit/"
+      - title: "Monólitos Summit"
+        url: "/monolitos-summit/"
       - title: "Arquivo"
         url: "/arquivo"
 
