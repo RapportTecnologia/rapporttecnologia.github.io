@@ -3,7 +3,7 @@ layout: project
 title: "Tesouraria Tokenizada e Governança Distribuída"
 description: "Estruturas de contratos inteligentes que conectam os processos financeiros e societários da empresa à blockchain, habilitando operações Web3 com regras programáveis e trilhas auditáveis."
 tags: [blockchain, Web3, tokenização empresarial, tesouraria tokenizada, governança distribuída, DAO, contratos inteligentes, Solidity, criptoativos, finanças digitais, Rapport Tecnologia]
-image: "cards/tesouraria-tokenizada.svg"
+image: "cards/tesouraria-tokenizada.webp"
 featured: true
 ---
 
