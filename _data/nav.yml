@@ -5,14 +5,20 @@ header:
     title: Nosso Blog
   - link: '/sobre'
     title: Sobre
-  - title: Portfólio
+  - title: Serviços e Eventos
     children:
-      - link: '/servicos/'
+      - link: '/portfolio/'
         title: Portfólio
       - link: '/contratos'
         title: Contratos
       - link: '/crypto-faucets/'
         title: Cripto Faucets
+      - title: Eventos
+        children:
+          - link: '/siara-tech-summit/'
+            title: Siará Tech Summit
+          - link: '/monolitos-summit/'
+            title: Monólitos Summit
   - title: Agendamentos
     children:
       - link: '/contato'
