@@ -2,8 +2,8 @@
 layout: page
 language: pt-br
 title: "Cripto Faucets — Testnet Tokens"
-description: "Lista de faucets de testnets (Polygon Amoy, Ethereum Sepolia e outras redes) para obter tokens de teste gratuitos. Sites verificados com moeda/rede e quantidade distribuída por solicitação."
-tags: [faucet, testnet, Polygon Amoy, Sepolia, Ethereum, MATIC, POL, ETH, blockchain, Web 3.0, tokens de teste, RAPPORT]
+description: "Lista de faucets de testnets (Polygon Amoy, Ethereum Sepolia, Arc, Solana e outras redes) para obter tokens de teste gratuitos. Sites verificados com moeda/rede e quantidade distribuída por solicitação."
+tags: [faucet, testnet, Polygon Amoy, Sepolia, Ethereum, Arc, Solana, MATIC, POL, ETH, SOL, USDC, blockchain, Web 3.0, tokens de teste, RAPPORT]
 permalink: /crypto-faucets/
 redirect-from: /cripto-faucets/
 ---
@@ -133,6 +133,10 @@ redirect-from: /cripto-faucets/
     <a href="https://ethglobal.com/faucet/polygon-amoy-80002" target="_blank" rel="noopener noreferrer">ETHGlobal</a>
     <span class="faucets-qty-none">—</span> <span class="faucets-network">Polygon Amoy (ChainId 80002)</span>
   </div>
+  <div class="faucet-card">
+    <a href="https://faucet.triangleplatform.com/polygon/amoy" target="_blank" rel="noopener noreferrer">Triangle Platform</a>
+    <span class="faucets-qty-none">—</span> <span class="faucets-network">Polygon Amoy &middot; ⚠ Serviço suspenso</span>
+  </div>
 </div>
 
 ### Sepolia — Ethereum (ETH)
@@ -157,6 +161,28 @@ redirect-from: /cripto-faucets/
   <div class="faucet-card">
     <a href="https://www.sepoliaeth.com/home" target="_blank" rel="noopener noreferrer">sepoliaeth.com</a>
     <span class="faucets-qty-none">—</span> <span class="faucets-network">Ethereum Sepolia</span>
+  </div>
+</div>
+
+### Arc Testnet (USDC)
+
+<div class="faucets-grid">
+  <div class="faucet-card">
+    <a href="https://thirdweb.com/arc-testnet" target="_blank" rel="noopener noreferrer">thirdweb — Arc Testnet</a>
+    <span class="faucets-qty-none">—</span> <span class="faucets-network">Arc Testnet</span>
+  </div>
+  <div class="faucet-card">
+    <a href="https://faucet.circle.com/" target="_blank" rel="noopener noreferrer">Circle Faucet</a>
+    <span class="faucets-qty-none">—</span> <span class="faucets-network">USDC testnet &middot; Multi-rede (Arc, Sepolia e outras)</span>
+  </div>
+</div>
+
+### Solana (SOL)
+
+<div class="faucets-grid">
+  <div class="faucet-card">
+    <a href="https://faucet.solana.com/" target="_blank" rel="noopener noreferrer">Solana Faucet</a>
+    <span class="faucets-qty-none">—</span> <span class="faucets-network">Solana Devnet &middot; Airdrop SOL</span>
   </div>
 </div>
 
