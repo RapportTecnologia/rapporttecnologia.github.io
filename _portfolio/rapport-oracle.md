@@ -41,6 +41,10 @@ O **Rapport Oracle** é um oráculo genérico **multi-chain** desenvolvido pela 
 - **Resultados esportivos e eventos** para mercados de previsão e sorteios auditáveis.
 - **Qualquer API HTTP pública** consumível pela DSL `json(url).path`.
 
+## Faucets para teste
+
+Precisa de tokens de teste para experimentar o oracle — POL na Polygon Amoy, SOL na devnet da Solana ou XLM na testnet da Stellar? Solicite diretamente [abrindo uma issue no repositório](https://github.com/RapportTecnologia/Rapport_Oracle_Workspace/issues/new?title=Solicita%C3%A7%C3%A3o%20de%20Faucet%20para%20teste&body=Rede%3A%20(ex.%3A%20Polygon%20Amoy%2C%20Solana%20devnet%2C%20Stellar%20testnet)%0AEndere%C3%A7o%20da%20carteira%3A%0AQuantidade%20estimada%3A) ou pela página [Crypto Faucets](https://rapport.tec.br/crypto-faucets/) da Rapport.
+
 ## Saiba mais
 
 Visite a página do projeto em [rapporttecnologia.github.io/Rapport_Oracle_Workspace](https://rapporttecnologia.github.io/Rapport_Oracle_Workspace/) e explore o código no [GitHub](https://github.com/RapportTecnologia/Rapport_Oracle_Workspace).
